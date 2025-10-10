@@ -1,0 +1,20 @@
+paths:
+  raw_data: "data/raw/"
+  processed_data: "data/processed/"
+  logs: "logs/"
+
+database:
+  type: "postgresql"
+  host: "localhost"
+  port: 5432
+  name: "youtube_db"
+  user: "admin"
+  password: "admin123"
+
+etl:
+  batch_size: 500
+  update_frequency: "daily"
+  tables:
+    videos: "yt_videos"
+    channels: "yt_channels"
+    comments: "yt_comments"
