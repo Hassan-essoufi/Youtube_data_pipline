@@ -1,7 +1,0 @@
-youtube:
-  api_key: "YOUR_API_KEY"
-  base_url: "https://www.googleapis.com/youtube/v3"
-  quota_limit: 10000
-  backup_keys:
-    - "YOUR_BACKUP_KEY_1"
-    - "YOUR_BACKUP_KEY_2"
