@@ -1,4 +1,3 @@
 config/
 *.yaml
-!config/api_keys_example.yaml
-!config/settings_example.yaml
+
