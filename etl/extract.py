@@ -1,7 +1,11 @@
 import os
-from googleapiclient.discovery import build
-from utils.api_utils import load_config, validate_api_key, build_youtube_service
 import json
+import importlib.util
+
+utils_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'utils', 'api_utils.py')
+spec = importlib.util.spec_from_file_location("api_utils", utils_path)
+api_utils = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(api_utils)
 
 def get_channel_data(channel_id, service):
     request = service.channels().list(part="snippet,statistics,contentDetails", id=channel_id)
@@ -9,7 +13,7 @@ def get_channel_data(channel_id, service):
     return response
 
 def get_videos_from_channel(channel_id, max_results, service):
-    request = service.search().list(part="id", channelId=channel_id, type='video', maxResults=max_results)
+    request = service.search().list(part="snippet", channelId=channel_id, type='video', maxResults=max_results)
     response = request.execute()
     video_ids = []
     for item in response.get('items', []):
@@ -18,11 +22,11 @@ def get_videos_from_channel(channel_id, max_results, service):
     return video_ids
 
 def get_videos_details(video_ids,service):
-    videos_details = {}
+    videos_details = []
     for video_id in video_ids:
         request = service.videos().list(part='snippet', id=video_id)
         response = request.execute()
-        videos_details[video_id] = response
+        videos_details.append(response)
     return videos_details
 
 def get_comments(video_id, service, max_results):
@@ -39,17 +43,17 @@ def  save_raw_data(data, filname):
 
 
 def extract(channels, data_types=["channels", "videos", "comments"], max_results=50):
-    config = load_config('config/api_keys.yaml')
+    config = api_utils.load_config('config/api_keys.yaml')
     primary_key = config['youtube']['api_key']
     backup_key = config['youtube']['backup_key']
  
-    if validate_api_key(api_key) == True:
+    if api_utils.validate_api_key(primary_key) == True:
         api_key = primary_key
-    elif validate_api_key(api_key) == False and validate_api_key(backup_key ==True):
+    elif api_utils.validate_api_key(primary_key) == False and api_utils.validate_api_key(backup_key ==True):
         api_key = backup_key
     else : print("Erreur API")
 
-    service = build_youtube_service(api_key)
+    service = api_utils.build_youtube_service(api_key)
     if "channels" in data_types :
         channels_data = []
         for channel_id in channels:
@@ -58,10 +62,9 @@ def extract(channels, data_types=["channels", "videos", "comments"], max_results
         save_raw_data(channels_data, 'channels.json')
 
     if "videos" in data_types :
-        videos_data = []
         for channel_id in channels:
             video_ids = get_videos_from_channel(channel_id, max_results, service)
-            videos_data.append(get_videos_details(video_ids, service))
+            videos_data = get_videos_details(video_ids, service)
         save_raw_data(videos_data, 'videos.json')
     
     if  "comments" in data_types:
@@ -86,21 +89,23 @@ def extract(channels, data_types=["channels", "videos", "comments"], max_results
 
 
 api_key = 'AIzaSyCMnImcGCDSMY_xU2pskj6V8IbHK3c1iKQ'
-service=build('youtube','v3',developerKey=api_key)
+service = api_utils.build_youtube_service(api_key)
 max_results = 4
+channels_id = ['UC_x5XG1OV2P6uZZ5FSM9Ttw',"UCsMica-v34Irf9KVTh6xx-g","UC5WjFrtBdufl6CZojX3D8dQ"]
 channel_id = 'UC_x5XG1OV2P6uZZ5FSM9Ttw'
 video_ids = ["kJQP7kiw5Fk", "XqZsoesa55w", "MmB9b5njVbA"]
 video_id = video_ids[0]
+#print(api_utils.validate_api_key(api_key))
 #print(get_channel_data(channel_id,service))
 
-#print(get_videos_from_channel(channel_id, max_results,service))
+print(get_videos_from_channel(channel_id, max_results,service))
 
 #print(get_videos_details(video_ids, service))
 
-data = get_videos_from_channel(channel_id, max_results,service)
+#data = get_videos_from_channel(channel_id, max_results,service)
 #save_raw_data(data,"videosdata.json")
 
-extract(channel_id, data_types=["channels", "videos", "comments"], max_results=50)
+extract(channels_id, data_types=["channels", "videos", "comments"], max_results=50)
 
 
 

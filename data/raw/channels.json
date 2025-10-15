@@ -1,0 +1,167 @@
+[
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "rkjF2RLoxC2rm-z2C2sfqUoy3E4",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "Puv554wfJvcimzc04BumjthxYho",
+                "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+                "snippet": {
+                    "title": "Google for Developers",
+                    "description": "Subscribe to join a community of creative developers and learn the latest in Google technology — from AI and cloud, to mobile and web.\n\nExplore more at developers.google.com\n\n",
+                    "customUrl": "@googledevelopers",
+                    "publishedAt": "2007-08-23T00:34:43Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/2eI1TjX447QZFDe6R32K0V2mjbVMKT5mIfQR-wK5bAsxttS_7qzUDS1ojoSKeSP0NuWd6sl7qQ=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/2eI1TjX447QZFDe6R32K0V2mjbVMKT5mIfQR-wK5bAsxttS_7qzUDS1ojoSKeSP0NuWd6sl7qQ=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/2eI1TjX447QZFDe6R32K0V2mjbVMKT5mIfQR-wK5bAsxttS_7qzUDS1ojoSKeSP0NuWd6sl7qQ=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Google for Developers",
+                        "description": "Subscribe to join a community of creative developers and learn the latest in Google technology — from AI and cloud, to mobile and web.\n\nExplore more at developers.google.com\n\n"
+                    },
+                    "country": "US"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU_x5XG1OV2P6uZZ5FSM9Ttw"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "405163065",
+                    "subscriberCount": "2540000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "6801"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "BNMB44fgnRHRNcbV_-hSEUL4AF0",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "bP5V7pZLjOgAVT41hIYGpXzaNFw",
+                "id": "UCsMica-v34Irf9KVTh6xx-g",
+                "snippet": {
+                    "title": "Microsoft Developer",
+                    "description": "Official Microsoft Developer YouTube channel! Featuring live events, tips and tutorials, product news and more to help you explore, discover, and build solutions - using your favorite languages, technologies, and open-source frameworks.\n\nMore information visit https://developer.microsoft.com \n",
+                    "customUrl": "@microsoftdeveloper",
+                    "publishedAt": "2017-07-27T17:18:27Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/-cjUUxLvDnivNSS58Htc_stsEHTv34Qpz99UxbeNv_YqDXQu5adWGvY_VEaAVEvPYWX3DjKfyg=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/-cjUUxLvDnivNSS58Htc_stsEHTv34Qpz99UxbeNv_YqDXQu5adWGvY_VEaAVEvPYWX3DjKfyg=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/-cjUUxLvDnivNSS58Htc_stsEHTv34Qpz99UxbeNv_YqDXQu5adWGvY_VEaAVEvPYWX3DjKfyg=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Microsoft Developer",
+                        "description": "Official Microsoft Developer YouTube channel! Featuring live events, tips and tutorials, product news and more to help you explore, discover, and build solutions - using your favorite languages, technologies, and open-source frameworks.\n\nMore information visit https://developer.microsoft.com \n"
+                    },
+                    "country": "US"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUsMica-v34Irf9KVTh6xx-g"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "55726155",
+                    "subscriberCount": "648000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "8300"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "K9bAm81fLDcgsZ8js_55ImLbECI",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "3kLvsZifRlhB3VG3OWbJLC0ip9g",
+                "id": "UC5WjFrtBdufl6CZojX3D8dQ",
+                "snippet": {
+                    "title": "Tesla",
+                    "description": "Electric vehicles, giant batteries & solar, AI & robotics. Tesla’s mission is to accelerate the world’s transition to sustainable energy.",
+                    "customUrl": "@tesla",
+                    "publishedAt": "2006-12-08T05:50:26Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/YMRZbg8UjcGgiFOj4qxIWynUkxkV9h5KcpbQGO3yuJnU34Lga3UJeCEAP3T-t7MmNj8Yxsw-EQ=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/YMRZbg8UjcGgiFOj4qxIWynUkxkV9h5KcpbQGO3yuJnU34Lga3UJeCEAP3T-t7MmNj8Yxsw-EQ=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/YMRZbg8UjcGgiFOj4qxIWynUkxkV9h5KcpbQGO3yuJnU34Lga3UJeCEAP3T-t7MmNj8Yxsw-EQ=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Tesla",
+                        "description": "Electric vehicles, giant batteries & solar, AI & robotics. Tesla’s mission is to accelerate the world’s transition to sustainable energy."
+                    },
+                    "country": "US"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU5WjFrtBdufl6CZojX3D8dQ"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "350255217",
+                    "subscriberCount": "2870000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "481"
+                }
+            }
+        ]
+    }
+]
