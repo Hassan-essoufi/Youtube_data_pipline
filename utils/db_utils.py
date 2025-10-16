@@ -25,13 +25,19 @@ def create_table_if_not_exists(table_name, schema):   #schema: un dictionnaire c
 def insert_data(table_name, data):
     engine = get_db_connection('config/setting.yaml')
     df = pd.DataFrame(data)
-    df.to_sql(name=table_name, con=engine, if_exists='replace', index=False)
+    df.to_sql(name=table_name, con=engine, if_exists='append', index=False)
     print(f"Donnees inserees dans la table {table_name} avec succes!")
     
-def fetch_data(query):
+def fetch_data(query):  
     engine = get_db_connection('config/setting.yaml')
     df = pd.read_sql(query, engine)
     return df
 
-def execute(query)
+def update_data(query):
+    engine = get_db_connection('config/setting.yaml')
+    pd.read_sql(query, engine)
+    print(f"Donnees modifiees avec succes")
+    
+    
+
     
