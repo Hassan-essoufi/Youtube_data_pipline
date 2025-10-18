@@ -1,0 +1,3173 @@
+[
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "U13ECvWW1pvx5sFyfb6O-Xw1KJ4",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "A8MvU9KMMJ9yGNBVgudOUPcjfMA",
+                "id": "tfQTDcWXVDA",
+                "snippet": {
+                    "publishedAt": "2024-05-30T19:53:13Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Every day, our Semi fleet transports battery packs from Giga Nevada to supply our Fremont factory",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/tfQTDcWXVDA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/tfQTDcWXVDA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/tfQTDcWXVDA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/tfQTDcWXVDA/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/tfQTDcWXVDA/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Every day, our Semi fleet transports battery packs from Giga Nevada to supply our Fremont factory",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "gRb3hgiuKWNrpEbz88_5VF8ksMA",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "2PlNjNl4O5B_EBNpTFwnLj7q730",
+                "id": "oXqhxJnyrHU",
+                "snippet": {
+                    "publishedAt": "2025-07-24T22:24:45Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Order Tesla Diner meals right from your car",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/oXqhxJnyrHU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/oXqhxJnyrHU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/oXqhxJnyrHU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/oXqhxJnyrHU/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/oXqhxJnyrHU/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Order Tesla Diner meals right from your car",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "JX_tGY3-99imUgxhO1rh-GdudXk",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "R0nLHyhbrCWPHZ5_mAEuHEAQYpU",
+                "id": "NHRj2hUHJmI",
+                "snippet": {
+                    "publishedAt": "2025-05-29T17:04:41Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Model X doors open & close automatically with a tap",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/NHRj2hUHJmI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/NHRj2hUHJmI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/NHRj2hUHJmI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/NHRj2hUHJmI/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/NHRj2hUHJmI/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Model X doors open & close automatically with a tap",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "KctpEtBLgV5Trylk0XkUOwdWbuQ",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "HjvlE-dD6hcXIUaE6mLe3uX74BE",
+                "id": "HrTcH_07kHg",
+                "snippet": {
+                    "publishedAt": "2025-08-08T20:41:16Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Guy converts ‘66 Mustang into a Tesla",
+                    "description": "📷 IG @calmotivee",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/HrTcH_07kHg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/HrTcH_07kHg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/HrTcH_07kHg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/HrTcH_07kHg/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/HrTcH_07kHg/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Guy converts ‘66 Mustang into a Tesla",
+                        "description": "📷 IG @calmotivee"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "rRb07ib9PkfTZmZ0F6-FihPGNd8",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "AS2tVAhLy1sPVS59Jb3cwvTBdxM",
+                "id": "3mvOB88iYkE",
+                "snippet": {
+                    "publishedAt": "2025-03-12T19:48:27Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Your Tesla can shift directions for you",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/3mvOB88iYkE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/3mvOB88iYkE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/3mvOB88iYkE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/3mvOB88iYkE/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/3mvOB88iYkE/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Your Tesla can shift directions for you",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "hlVywPK4Frpc0hzAcZ1K3OhWs9M",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "I206CDezOejG_eDwgn7DzNttbao",
+                "id": "j7YqcdJZ0io",
+                "snippet": {
+                    "publishedAt": "2025-04-07T21:09:06Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Start FSD from Park",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/j7YqcdJZ0io/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/j7YqcdJZ0io/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/j7YqcdJZ0io/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/j7YqcdJZ0io/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/j7YqcdJZ0io/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Start FSD from Park",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "aduvrZZtK-gy11TI3UnInNU7Zcg",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "fROqkW_suGR4f_v6vY362OJxyjg",
+                "id": "pqIbLwIm_Qk",
+                "snippet": {
+                    "publishedAt": "2024-11-29T18:26:56Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Optimus catching ball with new hand",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/pqIbLwIm_Qk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/pqIbLwIm_Qk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/pqIbLwIm_Qk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/pqIbLwIm_Qk/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/pqIbLwIm_Qk/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Optimus catching ball with new hand",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "HnZPs41VlUbxcxdpWRsJ7DqSrI0",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "31-sLQ_3JZhH0UtkKZ_WylIj5us",
+                "id": "AnunTXBwOlk",
+                "snippet": {
+                    "publishedAt": "2025-09-02T19:29:38Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Sustainable Abundance | Master Plan Part IV",
+                    "description": "Master Plan Part IV – https://x.com/Tesla/status/1962591324022153607\n\nSince Tesla’s founding, each iteration of our master plan has focused on our north star: to deliver unconstrained sustainability without compromise.\n\nHumans are toolmakers. At Tesla, we make physical products at scale and at a low cost with the goal of making life better for everyone. \nAs the influence and impact of artificial intelligence (AI) technology increases, the mission set forth in Master Plan Part IV should come as no surprise.\n\nThis next chapter in Tesla’s story will help create a world we've only just begun to imagine and will do so at a scale that we have yet to see. We are building the products and services that bring AI into the physical world.\nWe have been working tirelessly for nearly two decades to create the foundation for this technological renaissance through the development of electric vehicles, energy products and humanoid robots.\n\nNow, we are combining our manufacturing capabilities with our autonomous prowess to deliver new products and services that will accelerate global prosperity and human thriving driven by economic growth shared by all. We are unifying our hardware and software at scale, and in doing so, we are creating a safer, cleaner and more enjoyable world.\n\nThis is sustainable abundance.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/AnunTXBwOlk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/AnunTXBwOlk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/AnunTXBwOlk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/AnunTXBwOlk/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/AnunTXBwOlk/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "powerwall",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Sustainable Abundance | Master Plan Part IV",
+                        "description": "Master Plan Part IV – https://x.com/Tesla/status/1962591324022153607\n\nSince Tesla’s founding, each iteration of our master plan has focused on our north star: to deliver unconstrained sustainability without compromise.\n\nHumans are toolmakers. At Tesla, we make physical products at scale and at a low cost with the goal of making life better for everyone. \nAs the influence and impact of artificial intelligence (AI) technology increases, the mission set forth in Master Plan Part IV should come as no surprise.\n\nThis next chapter in Tesla’s story will help create a world we've only just begun to imagine and will do so at a scale that we have yet to see. We are building the products and services that bring AI into the physical world.\nWe have been working tirelessly for nearly two decades to create the foundation for this technological renaissance through the development of electric vehicles, energy products and humanoid robots.\n\nNow, we are combining our manufacturing capabilities with our autonomous prowess to deliver new products and services that will accelerate global prosperity and human thriving driven by economic growth shared by all. We are unifying our hardware and software at scale, and in doing so, we are creating a safer, cleaner and more enjoyable world.\n\nThis is sustainable abundance."
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "XP0moTjLg4B0IuGNWyRxiQaNV2Y",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "bn2FBgJvh1BqxSdBHk1KoORPgQk",
+                "id": "th1R6KID7F8",
+                "snippet": {
+                    "publishedAt": "2025-01-02T18:39:48Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Powering Puerto Rico | Tesla Solar and Powerwall",
+                    "description": "After Hurricane Maria, Puerto Rico's grid has struggled to recover, leaving many without reliable electricity and facing high costs. Tesla Solar and Powerwall are protecting homeowners from outages and saving them money. The Tesla Virtual Power Plant supports the grid and helps Puerto Ricans become part of the solution while benefiting their community.\n\nPowerwall 3 – https://www.tesla.com/powerwall\n\nDespués del huracán María, la red eléctrica de Puerto Rico ha tenido dificultades para recuperarse. Muchos se han quedado sin electricidad confiable y enfrentan precios elevados. Los sistemas de Energía solar y Powerwall protegen a los propietarios contra apagones y les ahorran dinero. La Planta de energía virtual de Tesla, apoya la red eléctrica y ayuda a los puertorriqueños a ser parte de la solución, al mismo tiempo que beneficia a su comunidad.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/th1R6KID7F8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/th1R6KID7F8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/th1R6KID7F8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/th1R6KID7F8/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/th1R6KID7F8/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "powerwall",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Powering Puerto Rico | Tesla Solar and Powerwall",
+                        "description": "After Hurricane Maria, Puerto Rico's grid has struggled to recover, leaving many without reliable electricity and facing high costs. Tesla Solar and Powerwall are protecting homeowners from outages and saving them money. The Tesla Virtual Power Plant supports the grid and helps Puerto Ricans become part of the solution while benefiting their community.\n\nPowerwall 3 – https://www.tesla.com/powerwall\n\nDespués del huracán María, la red eléctrica de Puerto Rico ha tenido dificultades para recuperarse. Muchos se han quedado sin electricidad confiable y enfrentan precios elevados. Los sistemas de Energía solar y Powerwall protegen a los propietarios contra apagones y les ahorran dinero. La Planta de energía virtual de Tesla, apoya la red eléctrica y ayuda a los puertorriqueños a ser parte de la solución, al mismo tiempo que beneficia a su comunidad."
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "1jBrbBMUHd11eqLw-p7pzJkj6w4",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "TM7o-5PmU75ySmHY36-UaioM-80",
+                "id": "uz394aKhfLY",
+                "snippet": {
+                    "publishedAt": "2021-12-01T20:14:10Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Discover: Camp Mode",
+                    "description": "Use Camp Mode to stay comfortable while camping in your Tesla. Put your vehicle into Camp Mode to maintain its cabin lighting, temperature, airflow and to play music.\n\nhttp://www.tesla.com",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/uz394aKhfLY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/uz394aKhfLY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/uz394aKhfLY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/uz394aKhfLY/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/uz394aKhfLY/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "powerwall",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Discover: Camp Mode",
+                        "description": "Use Camp Mode to stay comfortable while camping in your Tesla. Put your vehicle into Camp Mode to maintain its cabin lighting, temperature, airflow and to play music.\n\nhttp://www.tesla.com"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "Ffc0kIiee48b5sDyQST4SKXJ2zE",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "hanvNVo3B4cwm-T6wyuHlIaFBgA",
+                "id": "9OV2fEeyuZg",
+                "snippet": {
+                    "publishedAt": "2024-11-19T20:01:34Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "FSD Supervised sees more than you",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/9OV2fEeyuZg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/9OV2fEeyuZg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/9OV2fEeyuZg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/9OV2fEeyuZg/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/9OV2fEeyuZg/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "FSD Supervised sees more than you",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "jpAS1GP_thecT6tczIrV__2i1j4",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "NTYUii4yvwlE0OaVNEGkSsv0A84",
+                "id": "zUVvagfTpgg",
+                "snippet": {
+                    "publishedAt": "2023-06-12T17:03:45Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Supercharging | Road Trips Made Easy",
+                    "description": "With 45,000+ Superchargers, Tesla owns and operates the largest global fast charging network in the world. Superchargers can recharge up to 200 miles of range in just 15 minutes.\n\nhttps://www.tesla.com/supercharger",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/zUVvagfTpgg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/zUVvagfTpgg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/zUVvagfTpgg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/zUVvagfTpgg/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/zUVvagfTpgg/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "powerwall",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery",
+                        "tesla supercharging",
+                        "supercharger",
+                        "tesla supercharger",
+                        "tesla charging",
+                        "car charging",
+                        "how to charge a car",
+                        "tesla road trips",
+                        "tesla plug",
+                        "tesla chargers",
+                        "ev charging"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Supercharging | Road Trips Made Easy",
+                        "description": "With 45,000+ Superchargers, Tesla owns and operates the largest global fast charging network in the world. Superchargers can recharge up to 200 miles of range in just 15 minutes.\n\nhttps://www.tesla.com/supercharger"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "8txwFc0p0PeNejHRZbdZErcPneA",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "ulyUMSJqrPaTXiTVxHc-y49uk14",
+                "id": "laO0RzsDzfU",
+                "snippet": {
+                    "publishedAt": "2020-11-13T00:23:51Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Discover: Sentry Mode",
+                    "description": "Protect your Tesla against threats, theft and more with Sentry Mode.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/laO0RzsDzfU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/laO0RzsDzfU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/laO0RzsDzfU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/laO0RzsDzfU/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/laO0RzsDzfU/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "powerwall",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Discover: Sentry Mode",
+                        "description": "Protect your Tesla against threats, theft and more with Sentry Mode."
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "Cd-GrTYYiGkOSyL3UVRyQO7kdLQ",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "6SZi-E_Cu9bdqYSyIl33AnNXgaQ",
+                "id": "_XvHhFjrbn0",
+                "snippet": {
+                    "publishedAt": "2025-08-29T05:49:59Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "The New Model Y Performance | Tesla",
+                    "description": "Now available in the US & Europe — Designed to deliver performance that’s just as good on your daily drive as it is on the open road\n\n– 3.3 seconds 0-60 mph\n– 155 mph top speed\n– 306 mi range\n\nDesign yours - https://www.tesla.com/modely/designx\n\nVehicle exterior upgrades for even better performance:\n– New front + rear fascia & carbon spoiler for better aerodynamics \n– Optimized wheels & tires for precision control \n– Performance carbon spoiler = greater downforce, reduced drag  \n\nA consistently smooth & stable ride: \n– Adaptive damping adjusts handling based on road conditions \n– New Drive Modes provide more freedom for high-speed driving \n– Staggered wheel + tire fitment provides better grip and steering \n\nHigher range:\nMore range thanks to new high-density battery cells with increased charge capacity \n\nPerformance & comfort go hand in hand:\n– Quiet cabin thanks to premium sound-damping materials & acoustic glass  \n– Heated & ventilated sport seats in first row w/ added bolstering & side cushions that hold you in your seat when cornering + powered thigh cushion extenders for extra comfort \n– Perforated & heated seats in the back with power recline \n– Our highest resolution 16\" center touchscreen = more pixels, more fun",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/_XvHhFjrbn0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/_XvHhFjrbn0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/_XvHhFjrbn0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/_XvHhFjrbn0/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/_XvHhFjrbn0/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "powerwall",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "The New Model Y Performance | Tesla",
+                        "description": "Now available in the US & Europe — Designed to deliver performance that’s just as good on your daily drive as it is on the open road\n\n– 3.3 seconds 0-60 mph\n– 155 mph top speed\n– 306 mi range\n\nDesign yours - https://www.tesla.com/modely/designx\n\nVehicle exterior upgrades for even better performance:\n– New front + rear fascia & carbon spoiler for better aerodynamics \n– Optimized wheels & tires for precision control \n– Performance carbon spoiler = greater downforce, reduced drag  \n\nA consistently smooth & stable ride: \n– Adaptive damping adjusts handling based on road conditions \n– New Drive Modes provide more freedom for high-speed driving \n– Staggered wheel + tire fitment provides better grip and steering \n\nHigher range:\nMore range thanks to new high-density battery cells with increased charge capacity \n\nPerformance & comfort go hand in hand:\n– Quiet cabin thanks to premium sound-damping materials & acoustic glass  \n– Heated & ventilated sport seats in first row w/ added bolstering & side cushions that hold you in your seat when cornering + powered thigh cushion extenders for extra comfort \n– Perforated & heated seats in the back with power recline \n– Our highest resolution 16\" center touchscreen = more pixels, more fun"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "Yvk2zQq-Mk_nQMHngginmszKvHY",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "_41QY1CEBn1Hp3E228KjSlcjI2g",
+                "id": "nwZQe1s2ScM",
+                "snippet": {
+                    "publishedAt": "2020-11-19T17:16:42Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Discover: Dog Mode",
+                    "description": "Keep your pets comfortable while you’re away. \n\nFeaturing Patty.\n\nhttps://www.tesla.com/",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/nwZQe1s2ScM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/nwZQe1s2ScM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/nwZQe1s2ScM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/nwZQe1s2ScM/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/nwZQe1s2ScM/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "powerwall",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Discover: Dog Mode",
+                        "description": "Keep your pets comfortable while you’re away. \n\nFeaturing Patty.\n\nhttps://www.tesla.com/"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "tzUoKURCBggPBOTcFmsAvumcHCE",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "F8cUUxQI2RGoR45ButelU9b3TgE",
+                "id": "3FhDfy9Ufl4",
+                "snippet": {
+                    "publishedAt": "2023-03-31T00:15:27Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Lars Explains | Tesla Vehicle Safety",
+                    "description": "Engineered with an all-electric architecture, Tesla vehicles provide a very low probability of rollover risk and occupant injury. Lars Moravy, VP of Vehicle Engineering at Tesla, explains why.\n\nhttps://www.tesla.com/safety",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/3FhDfy9Ufl4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/3FhDfy9Ufl4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/3FhDfy9Ufl4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/3FhDfy9Ufl4/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/3FhDfy9Ufl4/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "powerwall",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery",
+                        "tesla car safety",
+                        "tesla crash safety",
+                        "tesla passive safety",
+                        "tesla safety structure",
+                        "tesla crumple zone",
+                        "tesla safety engineering",
+                        "tesla lars"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Lars Explains | Tesla Vehicle Safety",
+                        "description": "Engineered with an all-electric architecture, Tesla vehicles provide a very low probability of rollover risk and occupant injury. Lars Moravy, VP of Vehicle Engineering at Tesla, explains why.\n\nhttps://www.tesla.com/safety"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "-W2kTKc4qCCq5uzNJ4At42ZyORk",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "BbO-R4wsPNOlTv3o_9FzlFrkWhg",
+                "id": "iPJDW5EaIzE",
+                "snippet": {
+                    "publishedAt": "2025-03-08T17:16:36Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "The New Model Y In 60 Seconds | Tesla",
+                    "description": "Redesigned from end to end, check out the upgrades to the new Model Y that make the best-selling car in the world even better \n\nDesign Yours – https://www.tesla.com/modely/design",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/iPJDW5EaIzE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/iPJDW5EaIzE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/iPJDW5EaIzE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/iPJDW5EaIzE/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/iPJDW5EaIzE/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "powerwall",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "The New Model Y In 60 Seconds | Tesla",
+                        "description": "Redesigned from end to end, check out the upgrades to the new Model Y that make the best-selling car in the world even better \n\nDesign Yours – https://www.tesla.com/modely/design"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "IpAe0zmzT6kVZdg7WqCu6hS82DI",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "2jR_bFsV2Dniy5xATNVQSnUNjJE",
+                "id": "C6JAuSgn3M8",
+                "snippet": {
+                    "publishedAt": "2024-12-10T19:04:30Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Optimus learning to stumble",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/C6JAuSgn3M8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/C6JAuSgn3M8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/C6JAuSgn3M8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/C6JAuSgn3M8/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/C6JAuSgn3M8/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Optimus learning to stumble",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "iB_X36Hsg40gDaLRjcIhfUKSsog",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "837otjZPtnC1FG6jlGUZNOzoRRs",
+                "id": "V8Eq-GDLod4",
+                "snippet": {
+                    "publishedAt": "2023-08-08T22:43:27Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Screen Tilt Wars",
+                    "description": "#shorts",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/V8Eq-GDLod4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/V8Eq-GDLod4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/V8Eq-GDLod4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/V8Eq-GDLod4/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/V8Eq-GDLod4/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Screen Tilt Wars",
+                        "description": "#shorts"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "MEeupXfCYXjbhwQN_dP3QfjDq8k",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "2CGCpC7iW7OVbp1CLILsCY_29GU",
+                "id": "LRb1yrFJj08",
+                "snippet": {
+                    "publishedAt": "2025-01-02T23:10:00Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Model Y glass roof ftw",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/LRb1yrFJj08/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/LRb1yrFJj08/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/LRb1yrFJj08/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/LRb1yrFJj08/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/LRb1yrFJj08/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Model Y glass roof ftw",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "uQ7WMJKt6e6ikOKJdziMpaqb6fg",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "jo1r-md0OngEtvEBTCMF7U7E_OA",
+                "id": "CXwXy6rTcaQ",
+                "snippet": {
+                    "publishedAt": "2024-06-28T02:21:47Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Send directions to your Tesla right from your phone",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/CXwXy6rTcaQ/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/CXwXy6rTcaQ/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/CXwXy6rTcaQ/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/CXwXy6rTcaQ/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/CXwXy6rTcaQ/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Send directions to your Tesla right from your phone",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "sgfe4tyNfPZL0juqS9zbFWLM9fU",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "1_rD-94l9VB517jILJTKM6ZsuII",
+                "id": "-Kpva0LcZzY",
+                "snippet": {
+                    "publishedAt": "2024-08-23T16:16:48Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Never forget where you parked again (Tesla App → Location)",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/-Kpva0LcZzY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/-Kpva0LcZzY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/-Kpva0LcZzY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/-Kpva0LcZzY/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/-Kpva0LcZzY/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Never forget where you parked again (Tesla App → Location)",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "d9n4RoeuVTOJAgvDyinoMe3n8pI",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "liHAnIszM1OzyiXUS5U2jYmR1PQ",
+                "id": "alVeBDFo0sk",
+                "snippet": {
+                    "publishedAt": "2025-06-21T20:12:47Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Model 3 Performance seats",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/alVeBDFo0sk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/alVeBDFo0sk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/alVeBDFo0sk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/alVeBDFo0sk/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/alVeBDFo0sk/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Model 3 Performance seats",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "-TQtVAZXmKtHVCJbRn9ddjH7O5M",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "pSu23LCRMgORH2RG69jsj5n53yk",
+                "id": "n7Pwpxj3eQg",
+                "snippet": {
+                    "publishedAt": "2024-10-22T17:03:28Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Actually Smart Summon (ASS)",
+                    "description": "Actually Smart Summon enables your car to come to you from anywhere in the parking lot or to a location of your choosing. Summoning your Tesla makes loading up easier and keeps you dry in the rain.\n\nActually Smart Summon is designed and intended for use only on parking lots and driveways located on private property where the surrounding area is familiar and predictable. Do not use on public roads.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/n7Pwpxj3eQg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/n7Pwpxj3eQg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/n7Pwpxj3eQg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/n7Pwpxj3eQg/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/n7Pwpxj3eQg/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "powerwall",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Actually Smart Summon (ASS)",
+                        "description": "Actually Smart Summon enables your car to come to you from anywhere in the parking lot or to a location of your choosing. Summoning your Tesla makes loading up easier and keeps you dry in the rain.\n\nActually Smart Summon is designed and intended for use only on parking lots and driveways located on private property where the surrounding area is familiar and predictable. Do not use on public roads."
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "wgmcy_XQeulkctpurxtoGmGW6NM",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "hqn9JqOKPmEXjJLL_2CJNzOyzJ0",
+                "id": "F1S0buG6Ki4",
+                "snippet": {
+                    "publishedAt": "2023-08-08T23:09:05Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "More Cowbell!",
+                    "description": "#shorts",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/F1S0buG6Ki4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/F1S0buG6Ki4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/F1S0buG6Ki4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/F1S0buG6Ki4/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/F1S0buG6Ki4/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "More Cowbell!",
+                        "description": "#shorts"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "Ye40oBTtpKhywu-HkMyVaBLiANg",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "T7nxl2uD6yuYddi2CaZ1xDlz2gI",
+                "id": "8NdBCAv6jUw",
+                "snippet": {
+                    "publishedAt": "2025-04-09T17:35:24Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Work it",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/8NdBCAv6jUw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/8NdBCAv6jUw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/8NdBCAv6jUw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/8NdBCAv6jUw/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/8NdBCAv6jUw/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Work it",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "GpQuatqpkXuvNLuK6Ps5u5n8W7g",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "WXukq6_X85FgpriNTKby3iN5ZC8",
+                "id": "ilNlp6d-Kgg",
+                "snippet": {
+                    "publishedAt": "2023-07-28T18:42:24Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "The Ultimate Spill Test",
+                    "description": "#shorts",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/ilNlp6d-Kgg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/ilNlp6d-Kgg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/ilNlp6d-Kgg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/ilNlp6d-Kgg/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/ilNlp6d-Kgg/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "Tesla white seats",
+                        "White seat spill test",
+                        "How to clean Tesla seats",
+                        "Tesla cleaning",
+                        "Tesla maintenance"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "The Ultimate Spill Test",
+                        "description": "#shorts"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "94wh-U5S7oe-coCkg6m159fsUXs",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "xBVbA8puV1ulU-70joXWoSqs3yQ",
+                "id": "blW-Fa4a10g",
+                "snippet": {
+                    "publishedAt": "2024-03-14T21:39:12Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Giga Berlin Fly Through 2.0 | Tesla",
+                    "description": "Come join the Giga Berlin team – https://www.tesla.com/giga-berlin",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/blW-Fa4a10g/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/blW-Fa4a10g/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/blW-Fa4a10g/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/blW-Fa4a10g/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/blW-Fa4a10g/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "powerwall",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery",
+                        "tesla factory flythrough",
+                        "tesla factory fpv",
+                        "tesla fpv",
+                        "tesla berlin fpv",
+                        "giga berlin fpv",
+                        "tesla factory fpv drove",
+                        "tesla drone fpv",
+                        "tesla giga berlin",
+                        "tesla gigafactory",
+                        "berlin gigafactory",
+                        "tesla berlin drone fly"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Giga Berlin Fly Through 2.0 | Tesla",
+                        "description": "Come join the Giga Berlin team – https://www.tesla.com/giga-berlin"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "teyxhDxJ4-yPxGceeoE4eLin1bc",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "cfqL-llJM26nit4YUVfIW3QxuoI",
+                "id": "sDUOky6TYtw",
+                "snippet": {
+                    "publishedAt": "2024-10-21T21:39:42Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Cybercab Wireless Charging | Tesla",
+                    "description": "No hands required",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/sDUOky6TYtw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/sDUOky6TYtw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/sDUOky6TYtw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/sDUOky6TYtw/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/sDUOky6TYtw/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "powerwall",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Cybercab Wireless Charging | Tesla",
+                        "description": "No hands required"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "ji5RaVrMIqIpXNwzlQQ-G2R3acw",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "c01U0QH9goqabGQzN-7qeFO_JfM",
+                "id": "TsuCSLouDJE",
+                "snippet": {
+                    "publishedAt": "2023-08-04T23:40:42Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Tesla Car Colorizer",
+                    "description": "#shorts",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/TsuCSLouDJE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/TsuCSLouDJE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/TsuCSLouDJE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/TsuCSLouDJE/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/TsuCSLouDJE/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Tesla Car Colorizer",
+                        "description": "#shorts"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "olkBloqRUM9_5TR8GiKONUUi3lU",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "MXPb2kttsMXwNNm_Kdb20q3u6qU",
+                "id": "X11biZre36s",
+                "snippet": {
+                    "publishedAt": "2025-01-31T01:37:42Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Model Y had a glow up",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/X11biZre36s/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/X11biZre36s/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/X11biZre36s/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/X11biZre36s/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/X11biZre36s/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Model Y had a glow up",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "CTY3MgnWppbkLFg4wXAXMDzCS0I",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "qE5K1BvvcCpro1A-62WI5x7TNtk",
+                "id": "jWXR0fjrIfc",
+                "snippet": {
+                    "publishedAt": "2023-12-05T22:51:45Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Cybertruck vs Porsche 911 (with a twist)",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/jWXR0fjrIfc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/jWXR0fjrIfc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/jWXR0fjrIfc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/jWXR0fjrIfc/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/jWXR0fjrIfc/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Cybertruck vs Porsche 911 (with a twist)",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "dLHQv8hCFW4btROgeuvpVDVG5RM",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "9rfh7a34dEx6zUHp0vSYo8r8QoE",
+                "id": "v9AMAYoLEt8",
+                "snippet": {
+                    "publishedAt": "2025-04-07T16:54:36Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "New Diamond Black Paint 💎",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/v9AMAYoLEt8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/v9AMAYoLEt8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/v9AMAYoLEt8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/v9AMAYoLEt8/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/v9AMAYoLEt8/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "New Diamond Black Paint 💎",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "HLKl-hSxuSHL3E7346e9yJFPGP4",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "EDPrXYAHg6kVC0zWFT_OOIpFM7s",
+                "id": "ISUaWrOooiE",
+                "snippet": {
+                    "publishedAt": "2019-06-18T19:14:43Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Beach Buggy Racing 2",
+                    "description": "Your next charging session is going to be SO 👏 MUCH 👏 FUN 👏\n\nBeach Buggy Racing 2 by Vector Unit is starting to roll out to Tesla cars today. https://ts.la/2WS4fEb \n\nNot an owner? Visit a Tesla store to try it 🎮",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/ISUaWrOooiE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/ISUaWrOooiE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/ISUaWrOooiE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/ISUaWrOooiE/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/ISUaWrOooiE/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "powerwall",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Beach Buggy Racing 2",
+                        "description": "Your next charging session is going to be SO 👏 MUCH 👏 FUN 👏\n\nBeach Buggy Racing 2 by Vector Unit is starting to roll out to Tesla cars today. https://ts.la/2WS4fEb \n\nNot an owner? Visit a Tesla store to try it 🎮"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "Zcl36_u7k5uixfhSdBT66QSKYmE",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "fMNTvnemucsPUv4KRVVxoFB3CcA",
+                "id": "z7PsJWApdeU",
+                "snippet": {
+                    "publishedAt": "2024-11-18T20:08:04Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Next-Gen Tesla Supercharger",
+                    "description": "500kW Supercharging is coming next year ⚡️\n\nToday, we’re announcing the V4 Cabinet — capable of delivering up to 500kW for cars and 1.2MW for Semi\n\nFaster Charging:\nSupports 400V-1000V vehicle architectures, including 30% faster charging for Cybertruck. S3XY vehicles enjoy 250kW charge rates they already experience on V3 Cabinet — charging up to 200 miles in 15 minutes\n\nFaster Deployments:\nV4 Cabinet powers 8 posts, 2X the stalls per cabinet. Lower footprint and complexity = more sites coming online faster\n\nNext-generation Hardware:\nCutting-edge power electronics designed to be the most reliable on the planet, with 3X power density enabling higher throughput with lower costs\n\nOur first sites with V4 Cabinets are going into permitting now. First openings in 2025\n\nTesla Supercharging – https://www.tesla.com/supercharger",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/z7PsJWApdeU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/z7PsJWApdeU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/z7PsJWApdeU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/z7PsJWApdeU/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/z7PsJWApdeU/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "powerwall",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Next-Gen Tesla Supercharger",
+                        "description": "500kW Supercharging is coming next year ⚡️\n\nToday, we’re announcing the V4 Cabinet — capable of delivering up to 500kW for cars and 1.2MW for Semi\n\nFaster Charging:\nSupports 400V-1000V vehicle architectures, including 30% faster charging for Cybertruck. S3XY vehicles enjoy 250kW charge rates they already experience on V3 Cabinet — charging up to 200 miles in 15 minutes\n\nFaster Deployments:\nV4 Cabinet powers 8 posts, 2X the stalls per cabinet. Lower footprint and complexity = more sites coming online faster\n\nNext-generation Hardware:\nCutting-edge power electronics designed to be the most reliable on the planet, with 3X power density enabling higher throughput with lower costs\n\nOur first sites with V4 Cabinets are going into permitting now. First openings in 2025\n\nTesla Supercharging – https://www.tesla.com/supercharger"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "3waaO4HKRCqndZ5g5rzY9VfRkEs",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "jZ0nqahaPzBOH1NhXUi0BxX6bAA",
+                "id": "OCfPJ_6KSzs",
+                "snippet": {
+                    "publishedAt": "2023-03-13T21:45:57Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Falcon wing doors | How it started vs how it's going",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/OCfPJ_6KSzs/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/OCfPJ_6KSzs/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/OCfPJ_6KSzs/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/OCfPJ_6KSzs/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/OCfPJ_6KSzs/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "powerwall",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery",
+                        "tesla falcon wing doors",
+                        "falcon wing doors",
+                        "falcon wing doors making of"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Falcon wing doors | How it started vs how it's going",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "n9LnvHjJeg4ZdgbXXDBgOGpmUnA",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "WgGVIVjCZGnixmb0xIRZhdB1S-k",
+                "id": "DyGgrkeds5U",
+                "snippet": {
+                    "publishedAt": "2023-01-20T04:58:41Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Tesla Heat Pump | More Range in Cold Weather",
+                    "description": "Heat Pump draws excess heat from the powertrain to maximize Supercharging speeds & driving range in cold weather. For example, your Tesla can use heat created by the battery & drive units to warm your cabin, saving energy & improving range on long drives. Heat Pump comes standard in every new Tesla.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/DyGgrkeds5U/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/DyGgrkeds5U/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/DyGgrkeds5U/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/DyGgrkeds5U/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/DyGgrkeds5U/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "powerwall",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery",
+                        "tesla heat pump",
+                        "tesla winter range",
+                        "tesla efficiency",
+                        "car heat pump",
+                        "tesla behind the scenes",
+                        "tesla bts",
+                        "tesla in snow"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Tesla Heat Pump | More Range in Cold Weather",
+                        "description": "Heat Pump draws excess heat from the powertrain to maximize Supercharging speeds & driving range in cold weather. For example, your Tesla can use heat created by the battery & drive units to warm your cabin, saving energy & improving range on long drives. Heat Pump comes standard in every new Tesla."
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "j6ReELhHw06H03zJC3oOnVOy4YI",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "GN4rGKbn16u9pQg_Eqx3HVWd3PY",
+                "id": "5OdeKlDhz8E",
+                "snippet": {
+                    "publishedAt": "2025-03-05T17:48:52Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Tesla Dashcam",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/5OdeKlDhz8E/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/5OdeKlDhz8E/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/5OdeKlDhz8E/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/5OdeKlDhz8E/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/5OdeKlDhz8E/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Tesla Dashcam",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "0pkpXGqrmAH55DgaMZExygCznto",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "yqdmJxu3uRyMwxf59r6NFtfQX-c",
+                "id": "6q5ethrBTXM",
+                "snippet": {
+                    "publishedAt": "2025-02-25T20:39:05Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Cybertruck Steer-By-Wire vs Mechanical Steering",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/6q5ethrBTXM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/6q5ethrBTXM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/6q5ethrBTXM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/6q5ethrBTXM/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/6q5ethrBTXM/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Cybertruck Steer-By-Wire vs Mechanical Steering",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "iaZjc5vZpDwUkP1owD1z1Gnur8Y",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "BrCXu01c928U_8VEUYnHKvmfl3I",
+                "id": "D1CqcLM0P7c",
+                "snippet": {
+                    "publishedAt": "2018-12-07T15:56:12Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "What 0-60 in the new Roadster sounds like",
+                    "description": "First test rides in the new Roadster.\n\nLearn more: https://ts.la/Roadster",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/D1CqcLM0P7c/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/D1CqcLM0P7c/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/D1CqcLM0P7c/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/D1CqcLM0P7c/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/D1CqcLM0P7c/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "What 0-60 in the new Roadster sounds like",
+                        "description": "First test rides in the new Roadster.\n\nLearn more: https://ts.la/Roadster"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "WNvVQHtsiO30Qa4_4UYdjTpWBYE",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "EpowYePeLzdw2ebnHv3S6SGJZtY",
+                "id": "Qfj4urMF8CU",
+                "snippet": {
+                    "publishedAt": "2024-10-29T21:11:43Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Cybercab | The Future is Autonomous",
+                    "description": "Cybercab is individualized point-to-point autonomous transport that will provide fast, convenient & the most affordable transportation for everyone\n\nHail your car & use it as long as you need for errands, commuting & more\n\nIt will automatically adjust to your climate, seating position, music preferences & more before it arrives\n\nTo create a sustainable future, we must democratize transportation. We do this by making driving more efficient, affordable and safe. Autonomy makes this future possible, today\n\nDiscover Autonomy – https://www.tesla.com/we-robot",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Qfj4urMF8CU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Qfj4urMF8CU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Qfj4urMF8CU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/Qfj4urMF8CU/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/Qfj4urMF8CU/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "powerwall",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Cybercab | The Future is Autonomous",
+                        "description": "Cybercab is individualized point-to-point autonomous transport that will provide fast, convenient & the most affordable transportation for everyone\n\nHail your car & use it as long as you need for errands, commuting & more\n\nIt will automatically adjust to your climate, seating position, music preferences & more before it arrives\n\nTo create a sustainable future, we must democratize transportation. We do this by making driving more efficient, affordable and safe. Autonomy makes this future possible, today\n\nDiscover Autonomy – https://www.tesla.com/we-robot"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "e_N6O9MsAHWtR3YVtQ7TsD9sZ8I",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "KtW5aZ6vDHQ9RELCTFY1XzwTaJk",
+                "id": "L0phoGxEeic",
+                "snippet": {
+                    "publishedAt": "2025-10-10T14:37:27Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "TRON Mode",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/L0phoGxEeic/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/L0phoGxEeic/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/L0phoGxEeic/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/L0phoGxEeic/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/L0phoGxEeic/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "TRON Mode",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "uja5PEUQsoKIFgaFx3Q-kUg64rg",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "DobOcHiGssJqJWwgcN4_rozEBOA",
+                "id": "T2rbdMlmpYY",
+                "snippet": {
+                    "publishedAt": "2019-02-14T03:27:24Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Introducing Dog Mode",
+                    "description": "Set a cabin temperature to keep your dog comfortable while letting passersby know they don't need to worry https://ts.la/2E90Ndk",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/T2rbdMlmpYY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/T2rbdMlmpYY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/T2rbdMlmpYY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/T2rbdMlmpYY/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/T2rbdMlmpYY/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "electric car",
+                        "tesla dog mode",
+                        "dog mode",
+                        "tesla dogs",
+                        "tesla dog feature",
+                        "tesla dog temperature",
+                        "tesla pet mode",
+                        "elon"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Introducing Dog Mode",
+                        "description": "Set a cabin temperature to keep your dog comfortable while letting passersby know they don't need to worry https://ts.la/2E90Ndk"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "CUUgjAGxdGPggok9FfhPhQ0dBrk",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "HyynCkx7lIJ2O-V37pUq3NrejRM",
+                "id": "VLLLGijAYYE",
+                "snippet": {
+                    "publishedAt": "2025-05-23T17:05:02Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Highrider to lowrider",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/VLLLGijAYYE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/VLLLGijAYYE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/VLLLGijAYYE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/VLLLGijAYYE/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/VLLLGijAYYE/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Highrider to lowrider",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "TGFG5gAwxqEBRiutcKK_49fBB0I",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "5Lkr7GEkRr97rd3UKFi_z2Z2FGo",
+                "id": "7-4yOx1CnXE",
+                "snippet": {
+                    "publishedAt": "2022-04-01T20:37:13Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Flying Through Giga Berlin",
+                    "description": "Come join the team! https://www.tesla.com/giga-berlin",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/7-4yOx1CnXE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/7-4yOx1CnXE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/7-4yOx1CnXE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/7-4yOx1CnXE/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/7-4yOx1CnXE/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "powerwall",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery",
+                        "giga berlin",
+                        "gigafactory berlin",
+                        "tesla berlin factory"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Flying Through Giga Berlin",
+                        "description": "Come join the team! https://www.tesla.com/giga-berlin"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "Fz_k1TfLE4vuzdm-jmq_gadUqUk",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "rVwwYhpxzrfEiZ7VGp0Cb2-6kyg",
+                "id": "k0oMa2jWXaM",
+                "snippet": {
+                    "publishedAt": "2025-06-13T19:41:40Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Meet the Updated Model S & X | Tesla",
+                    "description": "Model S & X are now even better – launching this week in the US 🇺🇸\n\nDesign yours\nModel S – https://www.tesla.com/models\nModel X – https://www.tesla.com/modelx\n\nHighlights:\n– Up to 410 miles of range (Model S Long Range – our longest range Tesla yet)\n– Even quieter inside: less wind + road noise & more effective Active Noise Cancellation\n– New wheel designs & improved aerodynamics = more range\n– Frost Blue paint color\n– Front fascia camera for better visibility\n– Dynamic ambient lighting that brings unique animations along the dash & doors upon entry\n– An even smoother ride thanks to new bushings & suspension design\n– Adaptive driving headlights\n– New exterior styling for Model S Plaid, optimized for high-speed stability\n– More space for 3rd row occupants & cargo (Model X)",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/k0oMa2jWXaM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/k0oMa2jWXaM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/k0oMa2jWXaM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/k0oMa2jWXaM/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/k0oMa2jWXaM/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "powerwall",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Meet the Updated Model S & X | Tesla",
+                        "description": "Model S & X are now even better – launching this week in the US 🇺🇸\n\nDesign yours\nModel S – https://www.tesla.com/models\nModel X – https://www.tesla.com/modelx\n\nHighlights:\n– Up to 410 miles of range (Model S Long Range – our longest range Tesla yet)\n– Even quieter inside: less wind + road noise & more effective Active Noise Cancellation\n– New wheel designs & improved aerodynamics = more range\n– Frost Blue paint color\n– Front fascia camera for better visibility\n– Dynamic ambient lighting that brings unique animations along the dash & doors upon entry\n– An even smoother ride thanks to new bushings & suspension design\n– Adaptive driving headlights\n– New exterior styling for Model S Plaid, optimized for high-speed stability\n– More space for 3rd row occupants & cargo (Model X)"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "7qLJ7Imt4t8zJl-GzKor4-PfdWU",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "gPUte4Ma5GF9BmTrCXTW0v7clDo",
+                "id": "-aTXUrmmLdo",
+                "snippet": {
+                    "publishedAt": "2024-03-07T03:24:05Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Cybertruck at Hell's Gate",
+                    "description": "Tri Motor Cybertruck crawling up Hell's Gate on the Hell's Revenge trail in Moab, Utah — on stock tires.\n\nhttps://www.tesla.com/cybertruck",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/-aTXUrmmLdo/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/-aTXUrmmLdo/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/-aTXUrmmLdo/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/-aTXUrmmLdo/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/-aTXUrmmLdo/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "powerwall",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery",
+                        "cybertruck",
+                        "cybertruck offroad",
+                        "cybertruck off-roading",
+                        "cybertruck utah",
+                        "cybtertruck hell",
+                        "cybertruck rock crawl",
+                        "tesla cybertruck offroading",
+                        "tesla cybertruck moab",
+                        "cybertruck moab",
+                        "cybertruck hells gate"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Cybertruck at Hell's Gate",
+                        "description": "Tri Motor Cybertruck crawling up Hell's Gate on the Hell's Revenge trail in Moab, Utah — on stock tires.\n\nhttps://www.tesla.com/cybertruck"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "6hbTjy3onvK8i-2U3K6bJT1uK_Q",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "gfDP85ffkzcM8UCDwzmJsPac2vY",
+                "id": "E5EC254_TeE",
+                "snippet": {
+                    "publishedAt": "2024-12-03T18:29:13Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Huge Tesla Light Show in Finland",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/E5EC254_TeE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/E5EC254_TeE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/E5EC254_TeE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/E5EC254_TeE/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/E5EC254_TeE/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Huge Tesla Light Show in Finland",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "2u-2VOz1Zb_FL3c29fzjWHUN4rM",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "KEwTVxiut65G0qPiVCydC_T7ZoU",
+                "id": "8zxQpYYSvTM",
+                "snippet": {
+                    "publishedAt": "2024-12-23T21:25:39Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "Cybertruck Rave",
+                    "description": "One of two new Light Shows rolling out now in the 2024 Holiday Update (Song – Ready for Assault)\n\nTo perform your own show, tap Toy Box → Light Show on your vehicle touchscreen\n\nDownload this custom Octa-Cybertruck show → https://github.com/teslamotors/light-show/tree/master/examples/lightshow_example_4_Ready_for_Assault_8_Car",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/8zxQpYYSvTM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/8zxQpYYSvTM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/8zxQpYYSvTM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/8zxQpYYSvTM/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/8zxQpYYSvTM/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "powerwall",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Cybertruck Rave",
+                        "description": "One of two new Light Shows rolling out now in the 2024 Holiday Update (Song – Ready for Assault)\n\nTo perform your own show, tap Toy Box → Light Show on your vehicle touchscreen\n\nDownload this custom Octa-Cybertruck show → https://github.com/teslamotors/light-show/tree/master/examples/lightshow_example_4_Ready_for_Assault_8_Car"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "daKDhA-qqd_eZtCAci7qbqNz5pA",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "t5c_4Gf4Yg_kiKrWmuhgEOap6lE",
+                "id": "vVFXsk0n24o",
+                "snippet": {
+                    "publishedAt": "2025-01-31T16:25:38Z",
+                    "channelId": "UC5WjFrtBdufl6CZojX3D8dQ",
+                    "title": "This Robot Sucks",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/vVFXsk0n24o/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/vVFXsk0n24o/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/vVFXsk0n24o/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/vVFXsk0n24o/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/vVFXsk0n24o/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Tesla",
+                    "tags": [
+                        "tesla",
+                        "model s",
+                        "model x",
+                        "model 3",
+                        "powerwall",
+                        "electric car",
+                        "elon musk",
+                        "ludicrous",
+                        "battery"
+                    ],
+                    "categoryId": "2",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "This Robot Sucks",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    }
+]

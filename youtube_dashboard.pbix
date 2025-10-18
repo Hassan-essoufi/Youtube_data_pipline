@@ -1,0 +1,70 @@
+CREATE TABLE channels (
+    channel_id VARCHAR(100) PRIMARY KEY,
+    title TEXT NOT NULL,
+    description TEXT,
+    published_at TIMESTAMP,
+    country VARCHAR(50),
+    custom_url TEXT,
+    subscriber_count BIGINT DEFAULT 0,
+    video_count BIGINT DEFAULT 0,
+    view_count BIGINT DEFAULT 0
+);
+
+CREATE TABLE videos (
+    -- Identifiants
+    video_id VARCHAR(50) PRIMARY KEY,
+    channel_id VARCHAR(50) NOT NULL,
+    
+    -- Métadonnées de base
+    title VARCHAR(500) NOT NULL,
+    description TEXT,
+    channel_title VARCHAR(255) NOT NULL,
+    category_id VARCHAR(50),
+    
+    -- Dates
+    published_at TIMESTAMPTZ NOT NULL,
+    created_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP,
+    
+    -- Statistiques d'engagement
+    view_count BIGINT DEFAULT 0 CHECK (view_count >= 0),
+    like_count BIGINT DEFAULT 0 CHECK (like_count >= 0),
+    comment_count BIGINT DEFAULT 0 CHECK (comment_count >= 0),
+    favorite_count BIGINT DEFAULT 0 CHECK (favorite_count >= 0),
+    
+    -- Détails du contenu
+    duration VARCHAR(20) DEFAULT 'PT0S',
+    dimension VARCHAR(20) DEFAULT '2d',
+    definition VARCHAR(10) DEFAULT 'sd',
+    caption BOOLEAN DEFAULT FALSE,
+    licensed_content BOOLEAN DEFAULT FALSE,
+    projection VARCHAR(20) DEFAULT 'rectangular',
+    live_broadcast_content VARCHAR(20) DEFAULT 'none',
+    
+    -- Métadonnées supplémentaires
+    tags TEXT[],  -- Tableau de tags
+    thumbnails_count INTEGER DEFAULT 0 CHECK (thumbnails_count >= 0),
+    
+    -- Index pour performances
+    CONSTRAINT fk_channel FOREIGN KEY (channel_id) REFERENCES channels(channel_id) ON DELETE CASCADE
+);
+
+CREATE TABLE comments (
+    comment_id VARCHAR(100) PRIMARY KEY,
+    parent_comment_id VARCHAR(100),
+    video_id VARCHAR(100) NOT NULL,
+    author_display_name TEXT,
+    author_channel_id VARCHAR(100),
+    author_channel_url TEXT,
+    text_display TEXT,
+    text_original TEXT,
+    like_count BIGINT DEFAULT 0,
+    published_at TIMESTAMP,
+    updated_at TIMESTAMP,
+    is_reply BOOLEAN DEFAULT FALSE,
+    total_reply_count INT DEFAULT 0,
+    can_reply BOOLEAN DEFAULT TRUE,
+    is_public BOOLEAN DEFAULT TRUE,
+    FOREIGN KEY (video_id) REFERENCES videos(video_id),
+    FOREIGN KEY (parent_comment_id) REFERENCES comments(comment_id)
+);

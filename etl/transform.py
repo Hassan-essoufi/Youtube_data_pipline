@@ -3,7 +3,6 @@ import json
 import pandas as pd 
 import numpy as np
 from datetime import datetime
-import re
 
 def load_raw_data(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -11,7 +10,7 @@ def load_raw_data(file_path):
     return json_data
 
 def transform_channels(file_path):
-    raw_channels_data = load_raw_data(file_path)
+    raw_channels_data = load_raw_data(file_path)      
     channels_data = []
     for response in raw_channels_data:
         for item in response['items']:
@@ -43,8 +42,6 @@ def transform_videos(file_path):
                 'channel_id': item.get('snippet', {}).get('channelId', 'N/A'),
                 'channel_title': item.get('snippet', {}).get('channelTitle', 'N/A'),
                 'category_id': item.get('snippet', {}).get('categoryId', 'N/A'),
-                'tags': item.get('snippet', {}).get('tags', []),
-                'thumbnails': len(item.get('snippet', {}).get('thumbnails', {})),
                 'live_broadcast_content': item.get('snippet', {}).get('liveBroadcastContent', 'none'),
                 # Statistiques
                 'view_count': int(item.get('statistics', {}).get('viewCount', 0)),
@@ -119,27 +116,29 @@ def save_processed_data(data,file_name):
     print(f"fichier sauvegardé: {file_path} ")
 
 def transform(channels_path,videos_path,comments_path):
+    current_datetime = datetime.now()
     #Transform, clean and save channels_data
     channels_data = transform_channels(channels_path)
     channels_proc_data = clean_data(channels_data)
-    save_processed_data(channels_proc_data,'channels_pro.csv')
+    save_processed_data(channels_proc_data,f"channels_{current_datetime.strftime('%Y-%m-%d_%Hh%Mm%Ss')}.csv")
     #Transform, clean and save videos_data
     videos_data = transform_videos(videos_path)
     videos_proc_data = clean_data(videos_data)
-    save_processed_data(videos_proc_data,'videos_pro.csv')
+    save_processed_data(videos_proc_data,f"videos_{current_datetime.strftime('%Y-%m-%d_%Hh%Mm%Ss')}.csv")
     #Transform, claen and save comments_data
     comments_data = transform_comments(comments_path)
     comments_processed_data = clean_data(comments_data)
-    save_processed_data(comments_processed_data,'comments_pro.csv')
+    save_processed_data(comments_processed_data,f"comments_{current_datetime.strftime('%Y-%m-%d_%Hh%Mm%Ss')}.csv")
     print('Transformation effectuee avec succes!')
 
+channels_path = 'data/raw/channels_2025-10-18_11h19m27s.json'
+videos_path = 'data/raw/videos2025-10-18_11h19m27s.json'
+comments_path = 'data/raw/comments2025-10-18_11h19m27s.json'
+transform(channels_path,videos_path,comments_path)
 
 
 
 
-
-
-transform('data/raw/channels.json', 'data/raw/videos.json', 'data/raw/comments.json') 
 
 
 

@@ -1,6 +1,7 @@
 import os
 import json
 import importlib.util
+from datetime import datetime
 
 utils_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'utils', 'api_utils.py')
 spec = importlib.util.spec_from_file_location("api_utils", utils_path)
@@ -42,8 +43,7 @@ def  save_raw_data(data, filname):
     print(f"fichier sauvegardé: {file_path} ")
 
 
-def extract(channels, data_types=["channels", "videos", "comments"], max_results=50):
-    config = api_utils.load_config('config/api_keys.yaml')
+def extract(config ,channels, data_types=["channels", "videos", "comments"], max_results=50):
     primary_key = config['youtube']['api_key']
     backup_key = config['youtube']['backup_key']
  
@@ -54,25 +54,26 @@ def extract(channels, data_types=["channels", "videos", "comments"], max_results
     else : print("Erreur API")
 
     service = api_utils.build_youtube_service(api_key)
+    current_datetime = datetime.now()
     if "channels" in data_types :
         channels_data = []
         for channel_id in channels:
             channel_data = get_channel_data(channel_id, service)
             channels_data.append(channel_data)
-        save_raw_data(channels_data, 'channels.json')
+        save_raw_data(channels_data, f"channels_{current_datetime.strftime('%Y-%m-%d_%Hh%Mm%Ss')}.json")
 
     if "videos" in data_types :
         for channel_id in channels:
             video_ids = get_videos_from_channel(channel_id, max_results, service)
             videos_data = get_videos_details(video_ids, service)
-        save_raw_data(videos_data, 'videos.json')
+        save_raw_data(videos_data, f"videos{current_datetime.strftime('%Y-%m-%d_%Hh%Mm%Ss')}.json")
     
     if  "comments" in data_types:
         comments_data =[]
         for video_id in video_ids: 
             video_comments = get_comments(video_id, service, max_results)
             comments_data.append(video_comments)
-        save_raw_data(comments_data, 'comments.json')
+        save_raw_data(comments_data, f"comments{current_datetime.strftime('%Y-%m-%d_%Hh%Mm%Ss')}.json")
     
     print("Extraction terminée avec succès.")
 
@@ -95,17 +96,18 @@ channels_id = ['UC_x5XG1OV2P6uZZ5FSM9Ttw',"UCsMica-v34Irf9KVTh6xx-g","UC5WjFrtBd
 channel_id = 'UC_x5XG1OV2P6uZZ5FSM9Ttw'
 video_ids = ["kJQP7kiw5Fk", "XqZsoesa55w", "MmB9b5njVbA"]
 video_id = video_ids[0]
+config = api_utils.load_config('config/api_keys.yaml')
 #print(api_utils.validate_api_key(api_key))
 #print(get_channel_data(channel_id,service))
 
-print(get_videos_from_channel(channel_id, max_results,service))
+#print(get_videos_from_channel(channel_id, max_results,service))
 
 #print(get_videos_details(video_ids, service))
 
 #data = get_videos_from_channel(channel_id, max_results,service)
 #save_raw_data(data,"videosdata.json")
 
-extract(channels_id, data_types=["channels", "videos", "comments"], max_results=50)
+extract(config,channels_id, data_types=["channels", "videos", "comments"], max_results=50)
 
 
 
