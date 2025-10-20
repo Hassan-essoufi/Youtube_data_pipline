@@ -1,6 +1,6 @@
 # YouTube Data Pipeline
 
-> Pipeline ETL (Extract, Transform, Load) pour extraire, transformer et charger les données YouTube (chaînes, vidéos, commentaires) dans une base de données PostgreSQL.
+> Pipeline ETL (Extract, Transform, Load) pour extraire, transformer et charger les données YouTube (chaînes, vidéos, commentaires) dans une base de données PostgreSQL, avec orchestration via Apache Airflow.
 
 ##  Architecture
 
