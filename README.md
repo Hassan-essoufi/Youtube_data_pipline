@@ -20,15 +20,15 @@ Ce projet suit une architecture ETL classique en 3 phases :
 3. **Load** : Chargement dans PostgreSQL avec création automatique des tables 
 
 ##  Fonctionnalités:
-✅ Extraction de données YouTube via API officielle
-✅ Extraction de données YouTube via API officielle
-✅ Support multi-chaînes en parallèle
-✅ Transformation et nettoyage automatique des données
-✅ Chargement dans PostgreSQL avec gestion des schémas
-✅ Orchestration via Apache Airflow (DAG)
-✅ Logging détaillé avec fichiers horodatés
-✅ Gestion des erreurs et validation des données
-✅ Sauvegarde des données brutes et transformées
+
+- ✅ Extraction de données YouTube via API officielle
+- ✅ Support multi-chaînes en parallèle
+- ✅ Transformation et nettoyage automatique des données
+- ✅ Chargement dans PostgreSQL avec gestion des schémas
+- ✅ Orchestration via Apache Airflow (DAG)
+- ✅ Logging détaillé avec fichiers horodatés
+- ✅ Gestion des erreurs et validation des données
+- ✅ Sauvegarde des données brutes et transformées
 
 
 ## Structure du projet
@@ -62,19 +62,4 @@ pandas==2.1.3
 numpy==1.26.2
 psycopg2-binary==2.9.9
 apache-airflow==2.7.3
-
 ```
-
-
-## Requirements:
-**Langage** : Python 3.8+
-**API** : YouTube Data API v3 (via google-api-python-client)
-**Base de données** : PostgreSQL
-**Orchestration** : Apache Airflow
-**Traitement de données** : pandas, numpy
-**Configuration** : PyYAML
-**Connexion DB** : psycopg2-binary
-**Logging** : logging (standard Python)
-**Gestion des dépendances** : requirements.txt
-**Gestion des fichiers** : os, json, yaml
-**Utilitaires** : importlib, datetime
