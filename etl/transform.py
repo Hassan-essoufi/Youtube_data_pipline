@@ -116,25 +116,19 @@ def save_processed_data(data,file_name):
     print(f"fichier sauvegardé: {file_path} ")
 
 def transform(channels_path,videos_path,comments_path):
-    current_datetime = datetime.now()
     #Transform, clean and save channels_data
     channels_data = transform_channels(channels_path)
     channels_proc_data = clean_data(channels_data)
-    save_processed_data(channels_proc_data,f"channels_{current_datetime.strftime('%Y-%m-%d_%Hh%Mm%Ss')}.csv")
+    save_processed_data(channels_proc_data,f"channels_proc.csv")
     #Transform, clean and save videos_data
     videos_data = transform_videos(videos_path)
     videos_proc_data = clean_data(videos_data)
-    save_processed_data(videos_proc_data,f"videos_{current_datetime.strftime('%Y-%m-%d_%Hh%Mm%Ss')}.csv")
+    save_processed_data(videos_proc_data,f"videos_proc.csv")
     #Transform, claen and save comments_data
     comments_data = transform_comments(comments_path)
     comments_processed_data = clean_data(comments_data)
-    save_processed_data(comments_processed_data,f"comments_{current_datetime.strftime('%Y-%m-%d_%Hh%Mm%Ss')}.csv")
+    save_processed_data(comments_processed_data,f"comments_proc.csv")
     print('Transformation effectuee avec succes!')
-
-channels_path = 'data/raw/channels_2025-10-18_11h19m27s.json'
-videos_path = 'data/raw/videos2025-10-18_11h19m27s.json'
-comments_path = 'data/raw/comments2025-10-18_11h19m27s.json'
-transform(channels_path,videos_path,comments_path)
 
 
 

@@ -23,25 +23,4 @@ def validate_api_key(api_key):
 def build_youtube_service(api_key):
     return build('youtube', 'v3', developerKey=api_key)
 
-def is_quota_exceeded(func, *args, **kwargs):
-    """
-    Parameters:
-        func : fonction représentant l'appel API à exécuter
-        *args, **kwargs : arguments de la fonction API
-
-    Returns:
-        True si le quota est dépassé, False si l'appel est OK
-    """
-    try:
-        func(*args, **kwargs)
-        return False 
-    except HttpError as e:
-        error_content = e.content.decode()
-        if "quotaExceeded" in error_content:
-            return True 
-        else:
-            raise
-
-
-
-
+   
