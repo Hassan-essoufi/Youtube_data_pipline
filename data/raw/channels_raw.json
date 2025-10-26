@@ -1,7 +1,7 @@
 [
     {
         "kind": "youtube#channelListResponse",
-        "etag": "96bI2jhZvkzII1e5dDg9yd-z_TI",
+        "etag": "wFYNpx4z6dJDMqkQrIMPhcAx2eE",
         "pageInfo": {
             "totalResults": 1,
             "resultsPerPage": 5
@@ -9,54 +9,54 @@
         "items": [
             {
                 "kind": "youtube#channel",
-                "etag": "VRiN9HtSzFxX7XKPFH1NWCC7GyU",
-                "id": "UCW5YeuERMmlnqo4oq8vwUpg",
+                "etag": "6YYKVppQnyeMsJlxKB6TGhEKHPE",
+                "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
                 "snippet": {
-                    "title": "Net Ninja",
-                    "description": "Black-belt your web development skills. Over 2000 free programming tutorial videos about:\n\n- Modern JavaScript (beginner to advanced)\n- Node.js\n- React\n- Vue.js\n- Firebase\n- MongoDB\n- HTML & CSS\n- PHP & MySQL\n- Laravel\n- React Native\n- Flutter\n- Open AI\n- SolidJS\n\n...And many more topics as well :)\n",
-                    "customUrl": "@netninja",
-                    "publishedAt": "2015-04-08T20:11:22Z",
+                    "title": "Google for Developers",
+                    "description": "Subscribe to join a community of creative developers and learn the latest in Google technology — from AI and cloud, to mobile and web.\n\nExplore more at developers.google.com\n\n",
+                    "customUrl": "@googledevelopers",
+                    "publishedAt": "2007-08-23T00:34:43Z",
                     "thumbnails": {
                         "default": {
-                            "url": "https://yt3.ggpht.com/ytc/AIdro_mk2Ex-8sW03SBlBX7D1EC5skH0kv9rS3rU9IXq2I-q2Zg=s88-c-k-c0x00ffffff-no-rj",
+                            "url": "https://yt3.ggpht.com/2eI1TjX447QZFDe6R32K0V2mjbVMKT5mIfQR-wK5bAsxttS_7qzUDS1ojoSKeSP0NuWd6sl7qQ=s88-c-k-c0x00ffffff-no-rj",
                             "width": 88,
                             "height": 88
                         },
                         "medium": {
-                            "url": "https://yt3.ggpht.com/ytc/AIdro_mk2Ex-8sW03SBlBX7D1EC5skH0kv9rS3rU9IXq2I-q2Zg=s240-c-k-c0x00ffffff-no-rj",
+                            "url": "https://yt3.ggpht.com/2eI1TjX447QZFDe6R32K0V2mjbVMKT5mIfQR-wK5bAsxttS_7qzUDS1ojoSKeSP0NuWd6sl7qQ=s240-c-k-c0x00ffffff-no-rj",
                             "width": 240,
                             "height": 240
                         },
                         "high": {
-                            "url": "https://yt3.ggpht.com/ytc/AIdro_mk2Ex-8sW03SBlBX7D1EC5skH0kv9rS3rU9IXq2I-q2Zg=s800-c-k-c0x00ffffff-no-rj",
+                            "url": "https://yt3.ggpht.com/2eI1TjX447QZFDe6R32K0V2mjbVMKT5mIfQR-wK5bAsxttS_7qzUDS1ojoSKeSP0NuWd6sl7qQ=s800-c-k-c0x00ffffff-no-rj",
                             "width": 800,
                             "height": 800
                         }
                     },
                     "localized": {
-                        "title": "Net Ninja",
-                        "description": "Black-belt your web development skills. Over 2000 free programming tutorial videos about:\n\n- Modern JavaScript (beginner to advanced)\n- Node.js\n- React\n- Vue.js\n- Firebase\n- MongoDB\n- HTML & CSS\n- PHP & MySQL\n- Laravel\n- React Native\n- Flutter\n- Open AI\n- SolidJS\n\n...And many more topics as well :)\n"
+                        "title": "Google for Developers",
+                        "description": "Subscribe to join a community of creative developers and learn the latest in Google technology — from AI and cloud, to mobile and web.\n\nExplore more at developers.google.com\n\n"
                     },
-                    "country": "GB"
+                    "country": "US"
                 },
                 "contentDetails": {
                     "relatedPlaylists": {
                         "likes": "",
-                        "uploads": "UUW5YeuERMmlnqo4oq8vwUpg"
+                        "uploads": "UU_x5XG1OV2P6uZZ5FSM9Ttw"
                     }
                 },
                 "statistics": {
-                    "viewCount": "203934956",
-                    "subscriberCount": "1800000",
+                    "viewCount": "405471590",
+                    "subscriberCount": "2550000",
                     "hiddenSubscriberCount": false,
-                    "videoCount": "2717"
+                    "videoCount": "6821"
                 }
             }
         ]
     },
     {
         "kind": "youtube#channelListResponse",
-        "etag": "7F7hGoc6FDnABPcCU0qdIznWMvs",
+        "etag": "kntHRd3YgvSVXfwAD94ZJgA1yqw",
         "pageInfo": {
             "totalResults": 1,
             "resultsPerPage": 5
@@ -64,47 +64,212 @@
         "items": [
             {
                 "kind": "youtube#channel",
-                "etag": "bc7HLBBr1wSNvVki9RUmf7vvqhA",
-                "id": "UCJskGeByzRRSvmOyZOz61ig",
+                "etag": "xyOTEthpM9v7Hz1iFeqarDJ3NJ8",
+                "id": "UC29ju8bIPH5as8OGnQzwJyA",
                 "snippet": {
-                    "title": "take U forward",
-                    "description": "🔥 Hey everyone, I’m Raj (Striver), a Software Engineer and an educator. In the last 5 years, I have had the privilege of working at Google, Amazon, and Media.net, and today I am building takeUforward, the world’s first ONE STOP preparation platform. Our dream is simple: to create a world-class product from India at an affordable cost, while also ensuring that free learning at TUF is among the best out there.\n\nBack in college, I was a CM on Codeforces and a 6★ on CodeChef. But honestly, more than ratings, what excites me is teaching the way I wish I had been taught. I may not be the best coder in the country, but when it comes to explaining concepts deeply, clearly, and at scale, I would like to believe this channel speaks for itself.\n\nHere, you will not just find algorithms, you will find the entire thought process behind problem solving, taught in structured, in-depth, English lectures with enough practice and volume to prepare you for real interviews.\n\n📩 hello@takeuforward.org\n",
-                    "customUrl": "@takeuforward",
-                    "publishedAt": "2020-03-16T17:43:04.783152Z",
+                    "title": "Traversy Media",
+                    "description": "Traversy Media features the best online web development and programming tutorials for all of the latest web technologies from the building blocks of HTML, CSS & JavaScript to frontend frameworks like React and Vue to backend technologies like Node.js, Python and PHP",
+                    "customUrl": "@traversymedia",
+                    "publishedAt": "2009-10-30T21:33:14Z",
                     "thumbnails": {
                         "default": {
-                            "url": "https://yt3.ggpht.com/dSkEwiYrGlZPE6t9irfN8RlpDlaU_n7u3oEnHxJIY_knycUXPzEVlFKbYtwzkcysNDVZPn5zmHg=s88-c-k-c0x00ffffff-no-rj",
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mLysKc36lc_FVk2j777olWvLOjgDz6NCNGdiQBnAKRENM=s88-c-k-c0x00ffffff-no-rj",
                             "width": 88,
                             "height": 88
                         },
                         "medium": {
-                            "url": "https://yt3.ggpht.com/dSkEwiYrGlZPE6t9irfN8RlpDlaU_n7u3oEnHxJIY_knycUXPzEVlFKbYtwzkcysNDVZPn5zmHg=s240-c-k-c0x00ffffff-no-rj",
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mLysKc36lc_FVk2j777olWvLOjgDz6NCNGdiQBnAKRENM=s240-c-k-c0x00ffffff-no-rj",
                             "width": 240,
                             "height": 240
                         },
                         "high": {
-                            "url": "https://yt3.ggpht.com/dSkEwiYrGlZPE6t9irfN8RlpDlaU_n7u3oEnHxJIY_knycUXPzEVlFKbYtwzkcysNDVZPn5zmHg=s800-c-k-c0x00ffffff-no-rj",
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_mLysKc36lc_FVk2j777olWvLOjgDz6NCNGdiQBnAKRENM=s800-c-k-c0x00ffffff-no-rj",
                             "width": 800,
                             "height": 800
                         }
                     },
                     "localized": {
-                        "title": "take U forward",
-                        "description": "🔥 Hey everyone, I’m Raj (Striver), a Software Engineer and an educator. In the last 5 years, I have had the privilege of working at Google, Amazon, and Media.net, and today I am building takeUforward, the world’s first ONE STOP preparation platform. Our dream is simple: to create a world-class product from India at an affordable cost, while also ensuring that free learning at TUF is among the best out there.\n\nBack in college, I was a CM on Codeforces and a 6★ on CodeChef. But honestly, more than ratings, what excites me is teaching the way I wish I had been taught. I may not be the best coder in the country, but when it comes to explaining concepts deeply, clearly, and at scale, I would like to believe this channel speaks for itself.\n\nHere, you will not just find algorithms, you will find the entire thought process behind problem solving, taught in structured, in-depth, English lectures with enough practice and volume to prepare you for real interviews.\n\n📩 hello@takeuforward.org\n"
+                        "title": "Traversy Media",
+                        "description": "Traversy Media features the best online web development and programming tutorials for all of the latest web technologies from the building blocks of HTML, CSS & JavaScript to frontend frameworks like React and Vue to backend technologies like Node.js, Python and PHP"
                     },
-                    "country": "IN"
+                    "country": "US"
                 },
                 "contentDetails": {
                     "relatedPlaylists": {
                         "likes": "",
-                        "uploads": "UUJskGeByzRRSvmOyZOz61ig"
+                        "uploads": "UU29ju8bIPH5as8OGnQzwJyA"
                     }
                 },
                 "statistics": {
-                    "viewCount": "161161472",
-                    "subscriberCount": "941000",
+                    "viewCount": "226872229",
+                    "subscriberCount": "2380000",
                     "hiddenSubscriberCount": false,
-                    "videoCount": "535"
+                    "videoCount": "1013"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "lVwY3HOItdOsBKlc5C3vPRD7_TM",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "vls0fTO6cRAmie3cv-qlnsH_k9E",
+                "id": "UC8butISFwT-Wl7EV0hUK0BQ",
+                "snippet": {
+                    "title": "freeCodeCamp.org",
+                    "description": "Learn math, programming, and computer science for free. A 501(c)(3) tax-exempt charity. We also run a free learning interactive platform at freecodecamp.org",
+                    "customUrl": "@freecodecamp",
+                    "publishedAt": "2014-12-16T21:18:48Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "freeCodeCamp.org",
+                        "description": "Learn math, programming, and computer science for free. A 501(c)(3) tax-exempt charity. We also run a free learning interactive platform at freecodecamp.org"
+                    },
+                    "country": "US"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU8butISFwT-Wl7EV0hUK0BQ"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "913582960",
+                    "subscriberCount": "11200000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "1949"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "eSE0DcK89HiuNxBgEZvdCiFJzUg",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "y8GhL50pNBJlByLlZMioMGxMIr4",
+                "id": "UCYO_jab_esuFRV4b17AJtAw",
+                "snippet": {
+                    "title": "3Blue1Brown",
+                    "description": "My name is Grant Sanderson. Videos here cover a variety of topics in math, or adjacent fields like physics and CS, all with an emphasis on visualizing the core ideas. The goal is to use animation to help elucidate and motivate otherwise tricky topics, and for difficult problems to be made simple with changes in perspective.\n\nFor more information, other projects, FAQs, and inquiries see the website: https://www.3blue1brown.com",
+                    "customUrl": "@3blue1brown",
+                    "publishedAt": "2015-03-03T23:11:55Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "3Blue1Brown",
+                        "description": "My name is Grant Sanderson. Videos here cover a variety of topics in math, or adjacent fields like physics and CS, all with an emphasis on visualizing the core ideas. The goal is to use animation to help elucidate and motivate otherwise tricky topics, and for difficult problems to be made simple with changes in perspective.\n\nFor more information, other projects, FAQs, and inquiries see the website: https://www.3blue1brown.com"
+                    },
+                    "country": "US"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUYO_jab_esuFRV4b17AJtAw"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "691402695",
+                    "subscriberCount": "7810000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "223"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "4-lKbmya2IKoyrL0XVLNGoar1wk",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "lbg9NTL2UVrK_261Bih8uQmqpUo",
+                "id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+                "snippet": {
+                    "title": "Programming with Mosh",
+                    "description": "Hi! I'm Mosh 👋, a software engineer with over 20 years of experience.  I'm all about clear, concise, practical coding tutorials – no fluff, just the good stuff! My courses focus on real-world projects and the skills that will get you hired. I've helped millions of students transform their careers. \n\nWant to level up your skills? Subscribe and hit the bell to get notified when I upload new videos!\n\nFor sponsorships: partners@codewithmosh.com\n",
+                    "customUrl": "@programmingwithmosh",
+                    "publishedAt": "2014-10-07T00:40:53Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Programming with Mosh",
+                        "description": "Hi! I'm Mosh 👋, a software engineer with over 20 years of experience.  I'm all about clear, concise, practical coding tutorials – no fluff, just the good stuff! My courses focus on real-world projects and the skills that will get you hired. I've helped millions of students transform their careers. \n\nWant to level up your skills? Subscribe and hit the bell to get notified when I upload new videos!\n\nFor sponsorships: partners@codewithmosh.com\n"
+                    },
+                    "country": "US"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUWv7vMbMWH4-V0ZXdmDpPBA"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "255494374",
+                    "subscriberCount": "4830000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "243"
                 }
             }
         ]

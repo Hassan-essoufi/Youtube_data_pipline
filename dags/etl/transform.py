@@ -92,6 +92,7 @@ def clean_data(df):
 
     # Remplissage des valeurs manquantes
     for col in df_clean.columns:
+        df_clean[col] = df_clean[col].astype(str).str.replace('\t', ' ', regex=False)
         if df_clean[col].dtype in ['int64', 'float64']:
             df_clean[col].fillna(df_clean[col].median(), inplace=True)
         else:
@@ -103,7 +104,7 @@ def clean_data(df):
         df_clean[col] = df_clean[col].apply(lambda x: str(x) if isinstance(x, list) else x)
 
     df_clean = df_clean.drop_duplicates()
-
+    
     # Reconvertir en liste avec ast.literal_eval
     for col in problematic_columns:
         df_clean[col] = df_clean[col].apply(lambda x: ast.literal_eval(x) if isinstance(x, str) and x.startswith('[') else x)
@@ -113,7 +114,7 @@ def clean_data(df):
 def save_processed_data(data,file_name):
     os.makedirs('data/processed',exist_ok=True)
     file_path = os.path.join("data","processed",file_name)
-    data.to_csv(file_path, sep='\t', index=False, encoding='utf-8')
+    data.to_csv(file_path, sep=';', index=False, encoding='utf-8')
     print(f"fichier sauvegardé: {file_path} ")
 
 def transform(channels_path,videos_path,comments_path):

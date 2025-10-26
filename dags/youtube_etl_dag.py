@@ -50,9 +50,13 @@ def setup_logging():
     return logging.getLogger(__name__)
 
 channel_ids = [
-    "UCW5YeuERMmlnqo4oq8vwUpg",  # The Net Ninja  
-    "UCJskGeByzRRSvmOyZOz61ig",  # Striver_79 (Competitive programming)    
-]
+    "UC_x5XG1OV2P6uZZ5FSM9Ttw",  # Google Developers
+    "UC29ju8bIPH5as8OGnQzwJyA",  # Traversy Media
+    "UC8butISFwT-Wl7EV0hUK0BQ",  # freeCodeCamp.org
+    "UCYO_jab_esuFRV4b17AJtAw",  # 3Blue1Brown
+    "UCWv7vMbMWH4-V0ZXdmDpPBA"   # Programming with Mosh
+    ]
+    
         
 logger = setup_logging()
 

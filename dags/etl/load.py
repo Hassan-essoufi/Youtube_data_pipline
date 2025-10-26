@@ -9,7 +9,7 @@ spec.loader.exec_module(db_utils)
 
 def load_processed_data(file_name):
     file_path = os.path.join('data/processed',file_name)
-    data = pd.read_csv(file_path, sep='\t')
+    data = pd.read_csv(file_path, sep=';')
     return data
 
 def load_data_to_table(file_name, con, table_name, schema):
