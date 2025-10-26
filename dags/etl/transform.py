@@ -1,5 +1,6 @@
 import os 
 import json
+import ast
 import pandas as pd 
 import numpy as np
 from datetime import datetime
@@ -58,8 +59,8 @@ def transform_videos(file_path):
             videos_data.append(video_info)
     videos_df = pd.DataFrame(videos_data)
     return videos_df
-         
     
+
 def transform_comments(file_path):
     comments_raw_data = load_raw_data(file_path)
     comments_data = []
@@ -76,12 +77,7 @@ def transform_comments(file_path):
                 'text_display': snippet['textDisplay'],
                 'text_original': snippet.get('textOriginal', ''),
                 'like_count': snippet['likeCount'],
-                'published_at': snippet['publishedAt'],
-                'updated_at': snippet['updatedAt'],
-                'is_reply': False,
-                'total_reply_count': item['snippet']['totalReplyCount'],
-                'can_reply': item['snippet']['canReply'],
-                'is_public': True
+                'total_reply_count': item['snippet']['totalReplyCount']
             }
             comments_data.append(comment_info) 
     comments_df = pd.DataFrame(comments_data)
@@ -89,25 +85,30 @@ def transform_comments(file_path):
 
 def clean_data(df):
     df_clean = df.copy()
-    df_clean = df_clean.drop(columns=['colonne_inutile'], errors='ignore')    
+    df_clean = df_clean.drop(columns=['colonne_inutile'], errors='ignore')
+
+    # Convertir "NaN" en np.nan
+    df_clean.replace("NaN", np.nan, inplace=True)
+
+    # Remplissage des valeurs manquantes
     for col in df_clean.columns:
         if df_clean[col].dtype in ['int64', 'float64']:
             df_clean[col].fillna(df_clean[col].median(), inplace=True)
         else:
             df_clean[col].fillna('nothing', inplace=True)
-    problematic_columns = []
-    for col in df_clean.columns:
-        # Vérifier si la colonne contient des listes
-        if df_clean[col].apply(lambda x: isinstance(x, list)).any():
-            problematic_columns.append(col)
+
+    # Colonnes contenant des listes
+    problematic_columns = [col for col in df_clean.columns if df_clean[col].apply(lambda x: isinstance(x, list)).any()]
     for col in problematic_columns:
-        df_clean[col] = df_clean[col].apply(
-            lambda x: str(x) if isinstance(x, list) else x)
+        df_clean[col] = df_clean[col].apply(lambda x: str(x) if isinstance(x, list) else x)
+
     df_clean = df_clean.drop_duplicates()
+
+    # Reconvertir en liste avec ast.literal_eval
     for col in problematic_columns:
-        df_clean[col] = df_clean[col].apply(
-            lambda x: eval(x) if isinstance(x, str) and x.startswith('[') else x)
-    return df_clean  
+        df_clean[col] = df_clean[col].apply(lambda x: ast.literal_eval(x) if isinstance(x, str) and x.startswith('[') else x)
+        
+    return df_clean
 
 def save_processed_data(data,file_name):
     os.makedirs('data/processed',exist_ok=True)
