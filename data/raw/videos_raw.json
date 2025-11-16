@@ -75,6 +75,78 @@
     },
     {
         "kind": "youtube#videoListResponse",
+        "etag": "qYexmdSfazdOaRpJo2G3otLpnqQ",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "oU4RwqV5SYrkFXBMtoCGLxiXL14",
+                "id": "bjFvcFjJpE0",
+                "snippet": {
+                    "publishedAt": "2020-01-13T17:00:11Z",
+                    "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+                    "title": "Top Programming Languages in 2020",
+                    "description": "The top programming languages in 2020. If you're looking for a job in AI or web or mobile development, this video is for you.\n👍Subscribe for more tutorials like this: https://goo.gl/6PYaGF\n\nMY FULL COURSES\n\nThe Complete Python Programming Course: http://bit.ly/35BLHHP\nThe Ultimate Java Series: http://bit.ly/2tKoy8C\nThe Ultimate Full-stack JavaScript Developer: http://bit.ly/2Ncpc5F\nJavaScript Basics for Beginners: http://bit.ly/2KZea52\n\nMY YOUTUBE TUTORIALS\n\nPython Tutorial for Beginners: https://youtu.be/_uQrJ0TkZlc\nJava Tutorial for Beginners: https://youtu.be/eIrMbAQSU34\nJavaScript Tutorial for Beginners: https://youtu.be/W6NZfCO5SIk\n\nCONNECT WITH ME\n\nBlog: http://programmingwithmosh.com\nFacebook: https://www.facebook.com/programmingwithmosh/\nTwitter: https://twitter.com/moshhamedani",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/bjFvcFjJpE0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/bjFvcFjJpE0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/bjFvcFjJpE0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/bjFvcFjJpE0/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/bjFvcFjJpE0/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Programming with Mosh",
+                    "tags": [
+                        "programming 2020",
+                        "top programming languages 2020",
+                        "top programming languages",
+                        "programming languages 2020",
+                        "programming languages",
+                        "software development",
+                        "code with mosh",
+                        "mosh hamedani",
+                        "programming with mosh",
+                        "learn programming",
+                        "web development",
+                        "top web programming languages 2020",
+                        "best programming languages 2020"
+                    ],
+                    "categoryId": "27",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Top Programming Languages in 2020",
+                        "description": "The top programming languages in 2020. If you're looking for a job in AI or web or mobile development, this video is for you.\n👍Subscribe for more tutorials like this: https://goo.gl/6PYaGF\n\nMY FULL COURSES\n\nThe Complete Python Programming Course: http://bit.ly/35BLHHP\nThe Ultimate Java Series: http://bit.ly/2tKoy8C\nThe Ultimate Full-stack JavaScript Developer: http://bit.ly/2Ncpc5F\nJavaScript Basics for Beginners: http://bit.ly/2KZea52\n\nMY YOUTUBE TUTORIALS\n\nPython Tutorial for Beginners: https://youtu.be/_uQrJ0TkZlc\nJava Tutorial for Beginners: https://youtu.be/eIrMbAQSU34\nJavaScript Tutorial for Beginners: https://youtu.be/W6NZfCO5SIk\n\nCONNECT WITH ME\n\nBlog: http://programmingwithmosh.com\nFacebook: https://www.facebook.com/programmingwithmosh/\nTwitter: https://twitter.com/moshhamedani"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
         "etag": "_VNLpISmsdx4U1YHhOlk8mnDesA",
         "items": [
             {
@@ -137,78 +209,6 @@
                     "localized": {
                         "title": "Python in 2 Minutes!",
                         "description": "Get to know Python and why it's hated by C++ programmers! \n\n🔗 Python tutorials \n\nhttps://youtu.be/kqtD5dpn9C8?si=Z9CtJNU1FStlnepW\nhttps://youtu.be/_uQrJ0TkZlc?si=-mGZLOQn7YpLAlXJ\n\n✋ Stay connected\n\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/\n\n📖 What's covered\n\n00:00 - Why Python is so popular\n00:10 - Applications of Python  \n00:18 - Python ecosystem\n00:34 - History of Python \n00:43 - Python interpreter \n00:52 - Hidden gems of Python \n01:01 - Basic Python syntax \n01:44 - What's with \"batteries included\"\n\n#python #programming #ai #coding"
-                    },
-                    "defaultAudioLanguage": "en"
-                }
-            }
-        ],
-        "pageInfo": {
-            "totalResults": 1,
-            "resultsPerPage": 1
-        }
-    },
-    {
-        "kind": "youtube#videoListResponse",
-        "etag": "qYexmdSfazdOaRpJo2G3otLpnqQ",
-        "items": [
-            {
-                "kind": "youtube#video",
-                "etag": "oU4RwqV5SYrkFXBMtoCGLxiXL14",
-                "id": "bjFvcFjJpE0",
-                "snippet": {
-                    "publishedAt": "2020-01-13T17:00:11Z",
-                    "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
-                    "title": "Top Programming Languages in 2020",
-                    "description": "The top programming languages in 2020. If you're looking for a job in AI or web or mobile development, this video is for you.\n👍Subscribe for more tutorials like this: https://goo.gl/6PYaGF\n\nMY FULL COURSES\n\nThe Complete Python Programming Course: http://bit.ly/35BLHHP\nThe Ultimate Java Series: http://bit.ly/2tKoy8C\nThe Ultimate Full-stack JavaScript Developer: http://bit.ly/2Ncpc5F\nJavaScript Basics for Beginners: http://bit.ly/2KZea52\n\nMY YOUTUBE TUTORIALS\n\nPython Tutorial for Beginners: https://youtu.be/_uQrJ0TkZlc\nJava Tutorial for Beginners: https://youtu.be/eIrMbAQSU34\nJavaScript Tutorial for Beginners: https://youtu.be/W6NZfCO5SIk\n\nCONNECT WITH ME\n\nBlog: http://programmingwithmosh.com\nFacebook: https://www.facebook.com/programmingwithmosh/\nTwitter: https://twitter.com/moshhamedani",
-                    "thumbnails": {
-                        "default": {
-                            "url": "https://i.ytimg.com/vi/bjFvcFjJpE0/default.jpg",
-                            "width": 120,
-                            "height": 90
-                        },
-                        "medium": {
-                            "url": "https://i.ytimg.com/vi/bjFvcFjJpE0/mqdefault.jpg",
-                            "width": 320,
-                            "height": 180
-                        },
-                        "high": {
-                            "url": "https://i.ytimg.com/vi/bjFvcFjJpE0/hqdefault.jpg",
-                            "width": 480,
-                            "height": 360
-                        },
-                        "standard": {
-                            "url": "https://i.ytimg.com/vi/bjFvcFjJpE0/sddefault.jpg",
-                            "width": 640,
-                            "height": 480
-                        },
-                        "maxres": {
-                            "url": "https://i.ytimg.com/vi/bjFvcFjJpE0/maxresdefault.jpg",
-                            "width": 1280,
-                            "height": 720
-                        }
-                    },
-                    "channelTitle": "Programming with Mosh",
-                    "tags": [
-                        "programming 2020",
-                        "top programming languages 2020",
-                        "top programming languages",
-                        "programming languages 2020",
-                        "programming languages",
-                        "software development",
-                        "code with mosh",
-                        "mosh hamedani",
-                        "programming with mosh",
-                        "learn programming",
-                        "web development",
-                        "top web programming languages 2020",
-                        "best programming languages 2020"
-                    ],
-                    "categoryId": "27",
-                    "liveBroadcastContent": "none",
-                    "defaultLanguage": "en",
-                    "localized": {
-                        "title": "Top Programming Languages in 2020",
-                        "description": "The top programming languages in 2020. If you're looking for a job in AI or web or mobile development, this video is for you.\n👍Subscribe for more tutorials like this: https://goo.gl/6PYaGF\n\nMY FULL COURSES\n\nThe Complete Python Programming Course: http://bit.ly/35BLHHP\nThe Ultimate Java Series: http://bit.ly/2tKoy8C\nThe Ultimate Full-stack JavaScript Developer: http://bit.ly/2Ncpc5F\nJavaScript Basics for Beginners: http://bit.ly/2KZea52\n\nMY YOUTUBE TUTORIALS\n\nPython Tutorial for Beginners: https://youtu.be/_uQrJ0TkZlc\nJava Tutorial for Beginners: https://youtu.be/eIrMbAQSU34\nJavaScript Tutorial for Beginners: https://youtu.be/W6NZfCO5SIk\n\nCONNECT WITH ME\n\nBlog: http://programmingwithmosh.com\nFacebook: https://www.facebook.com/programmingwithmosh/\nTwitter: https://twitter.com/moshhamedani"
                     },
                     "defaultAudioLanguage": "en"
                 }
@@ -363,75 +363,6 @@
     },
     {
         "kind": "youtube#videoListResponse",
-        "etag": "jEykhku-c2AQrPdkmE5tt26gHnk",
-        "items": [
-            {
-                "kind": "youtube#video",
-                "etag": "muKgUMGa6T0j2iJgSjRA566VRzU",
-                "id": "V7TMkZH1AkM",
-                "snippet": {
-                    "publishedAt": "2025-08-18T23:46:05Z",
-                    "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
-                    "title": "A Practical AI Course for Developers is Coming...",
-                    "description": "I’ve been working on something special — can’t wait to share it with you soon. Watch this space.\n\n❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\n✋ Stay connected:\n- Full Courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/",
-                    "thumbnails": {
-                        "default": {
-                            "url": "https://i.ytimg.com/vi/V7TMkZH1AkM/default.jpg",
-                            "width": 120,
-                            "height": 90
-                        },
-                        "medium": {
-                            "url": "https://i.ytimg.com/vi/V7TMkZH1AkM/mqdefault.jpg",
-                            "width": 320,
-                            "height": 180
-                        },
-                        "high": {
-                            "url": "https://i.ytimg.com/vi/V7TMkZH1AkM/hqdefault.jpg",
-                            "width": 480,
-                            "height": 360
-                        },
-                        "standard": {
-                            "url": "https://i.ytimg.com/vi/V7TMkZH1AkM/sddefault.jpg",
-                            "width": 640,
-                            "height": 480
-                        },
-                        "maxres": {
-                            "url": "https://i.ytimg.com/vi/V7TMkZH1AkM/maxresdefault.jpg",
-                            "width": 1280,
-                            "height": 720
-                        }
-                    },
-                    "channelTitle": "Programming with Mosh",
-                    "tags": [
-                        "react tutorial",
-                        "react course",
-                        "ai engineer",
-                        "ai",
-                        "learn ai",
-                        "ai course",
-                        "software engineering",
-                        "code with mosh",
-                        "programming with mosh",
-                        "mosh hamedani"
-                    ],
-                    "categoryId": "27",
-                    "liveBroadcastContent": "none",
-                    "defaultLanguage": "en",
-                    "localized": {
-                        "title": "A Practical AI Course for Developers is Coming...",
-                        "description": "I’ve been working on something special — can’t wait to share it with you soon. Watch this space.\n\n❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\n✋ Stay connected:\n- Full Courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/"
-                    },
-                    "defaultAudioLanguage": "en"
-                }
-            }
-        ],
-        "pageInfo": {
-            "totalResults": 1,
-            "resultsPerPage": 1
-        }
-    },
-    {
-        "kind": "youtube#videoListResponse",
         "etag": "vT3KQ9A_MO79HKLOhRV795TwM6g",
         "items": [
             {
@@ -514,6 +445,75 @@
     },
     {
         "kind": "youtube#videoListResponse",
+        "etag": "jEykhku-c2AQrPdkmE5tt26gHnk",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "muKgUMGa6T0j2iJgSjRA566VRzU",
+                "id": "V7TMkZH1AkM",
+                "snippet": {
+                    "publishedAt": "2025-08-18T23:46:05Z",
+                    "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+                    "title": "A Practical AI Course for Developers is Coming...",
+                    "description": "I’ve been working on something special — can’t wait to share it with you soon. Watch this space.\n\n❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\n✋ Stay connected:\n- Full Courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/V7TMkZH1AkM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/V7TMkZH1AkM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/V7TMkZH1AkM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/V7TMkZH1AkM/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/V7TMkZH1AkM/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Programming with Mosh",
+                    "tags": [
+                        "react tutorial",
+                        "react course",
+                        "ai engineer",
+                        "ai",
+                        "learn ai",
+                        "ai course",
+                        "software engineering",
+                        "code with mosh",
+                        "programming with mosh",
+                        "mosh hamedani"
+                    ],
+                    "categoryId": "27",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "A Practical AI Course for Developers is Coming...",
+                        "description": "I’ve been working on something special — can’t wait to share it with you soon. Watch this space.\n\n❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\n✋ Stay connected:\n- Full Courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
         "etag": "Rdv4xTSsnBGvW9J4jhdfO5rYSCk",
         "items": [
             {
@@ -584,82 +584,6 @@
                     "localized": {
                         "title": "How to Loop over Lists in Python",
                         "description": "How to loop over lists in Python. Learn Python basics with this Python tutorial for beginners.\n🔥Subscribe for more Python tutorials like this: https://goo.gl/SjXTT7\n🔥Python tutorial for beginners: https://youtu.be/yE9v9rt6ziw\n\nPython Exercises for Beginners: \nhttps://programmingwithmosh.com/python/python-exercises-and-questions-for-beginners/\n\nPython Cheat Sheet: \nhttps://programmingwithmosh.com/python/python-3-cheat-sheet/\n\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani"
-                    },
-                    "defaultAudioLanguage": "en"
-                }
-            }
-        ],
-        "pageInfo": {
-            "totalResults": 1,
-            "resultsPerPage": 1
-        }
-    },
-    {
-        "kind": "youtube#videoListResponse",
-        "etag": "wU4XruYYnmbp0wpDhEtR1UCSHPE",
-        "items": [
-            {
-                "kind": "youtube#video",
-                "etag": "ncNfUv9tleSt4MJZHCKI8u78FAY",
-                "id": "YRJbhFLLPyE",
-                "snippet": {
-                    "publishedAt": "2024-08-06T13:00:37Z",
-                    "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
-                    "title": "The Complete Data Analyst Roadmap",
-                    "description": "Go from zero to a data analyst in 8-16 months. This step-by-step roadmap covers the essential skills you must learn to become a data analyst in 2024. \n\n❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\nDownload the FREE roadmap PDF here: https://mosh.link/data-analyst-roadmap\n\n✋ Stay connected\n\n- Complete courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/\n\n📚 Tutorials \n\nhttps://youtu.be/_uQrJ0TkZlc?si=ZhlCrQs1SkaPNVa8\nhttps://youtu.be/8JJ101D3knE?si=OGTuS35LQqSunuhh\nhttps://youtu.be/7S_tz1z_5bA?si=QL7s_M2Ao90RDwG8\n\n📖 Chapters\n\n00:00 - Introduction\n00:20 - Mathematics & Statistics\n00:42 - Excel\n00:59 - SQL\n01:18 - Python \n01:41 - Git \n02:23 - Data Collection and Preprocessing\n02:39 - Data Visualization \n03:07 - Machine Learning Fundamentals\n03:26 - Big Data\n\n#dataanalyst #datascience #machinelearning",
-                    "thumbnails": {
-                        "default": {
-                            "url": "https://i.ytimg.com/vi/YRJbhFLLPyE/default.jpg",
-                            "width": 120,
-                            "height": 90
-                        },
-                        "medium": {
-                            "url": "https://i.ytimg.com/vi/YRJbhFLLPyE/mqdefault.jpg",
-                            "width": 320,
-                            "height": 180
-                        },
-                        "high": {
-                            "url": "https://i.ytimg.com/vi/YRJbhFLLPyE/hqdefault.jpg",
-                            "width": 480,
-                            "height": 360
-                        },
-                        "standard": {
-                            "url": "https://i.ytimg.com/vi/YRJbhFLLPyE/sddefault.jpg",
-                            "width": 640,
-                            "height": 480
-                        },
-                        "maxres": {
-                            "url": "https://i.ytimg.com/vi/YRJbhFLLPyE/maxresdefault.jpg",
-                            "width": 1280,
-                            "height": 720
-                        }
-                    },
-                    "channelTitle": "Programming with Mosh",
-                    "tags": [
-                        "data analyst roadmap",
-                        "data analyst",
-                        "machine learning",
-                        "data science",
-                        "excel",
-                        "how to become a data analyst",
-                        "data analyst beginner",
-                        "data analytics career",
-                        "how to become data analyst",
-                        "become a data analyst",
-                        "step by step roadmap to become data analyst",
-                        "data analytics",
-                        "power bi",
-                        "complete data analyst roadmap",
-                        "code with mosh",
-                        "programming with mosh",
-                        "mosh hamedani"
-                    ],
-                    "categoryId": "27",
-                    "liveBroadcastContent": "none",
-                    "defaultLanguage": "en",
-                    "localized": {
-                        "title": "The Complete Data Analyst Roadmap",
-                        "description": "Go from zero to a data analyst in 8-16 months. This step-by-step roadmap covers the essential skills you must learn to become a data analyst in 2024. \n\n❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\nDownload the FREE roadmap PDF here: https://mosh.link/data-analyst-roadmap\n\n✋ Stay connected\n\n- Complete courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/\n\n📚 Tutorials \n\nhttps://youtu.be/_uQrJ0TkZlc?si=ZhlCrQs1SkaPNVa8\nhttps://youtu.be/8JJ101D3knE?si=OGTuS35LQqSunuhh\nhttps://youtu.be/7S_tz1z_5bA?si=QL7s_M2Ao90RDwG8\n\n📖 Chapters\n\n00:00 - Introduction\n00:20 - Mathematics & Statistics\n00:42 - Excel\n00:59 - SQL\n01:18 - Python \n01:41 - Git \n02:23 - Data Collection and Preprocessing\n02:39 - Data Visualization \n03:07 - Machine Learning Fundamentals\n03:26 - Big Data\n\n#dataanalyst #datascience #machinelearning"
                     },
                     "defaultAudioLanguage": "en"
                 }
@@ -753,6 +677,82 @@
                     "localized": {
                         "title": "React vs Angular vs Vue: What to Learn to Get a Front-end Job",
                         "description": "What is the best JavaScript framework/library that everybody is learning these days? React, Angular or Vue? Watch this video to find out. \nHere are my other YouTube tutorials: \nLearn React: https://youtu.be/Ke90Tje7VS0\nJavaScript for React Developers: https://youtu.be/NCwa_xi0Uuc\nJavaScript for Beginners: https://youtu.be/W6NZfCO5SIk\nLearn Angular: https://youtu.be/k5E2AVpwsko\n\n🔥Get my Complete React Course with a big discount (limited to the first 200 students): \nhttps://programmingwithmosh.com/courses/react\n\n👍Subscribe for more videos like this: https://goo.gl/6PYaGF\n\nThese days we have plenty of JavaScript frameworks and libraries for front end development. React, Angular and Vue are the top three that are used in most organizations around the world. If you're wondering whether you should learn #React, #Angular or #Vue for web development in 2019, this video can help. We'll look at each of these frameworks, their history, learning curve, and job market and then I'll tell you what framework to learn if you're looking for a front-end development job in 2019. \n\nStay in Touch:\nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani\nhttp://programmingwithmosh.com"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "wU4XruYYnmbp0wpDhEtR1UCSHPE",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "ncNfUv9tleSt4MJZHCKI8u78FAY",
+                "id": "YRJbhFLLPyE",
+                "snippet": {
+                    "publishedAt": "2024-08-06T13:00:37Z",
+                    "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+                    "title": "The Complete Data Analyst Roadmap",
+                    "description": "Go from zero to a data analyst in 8-16 months. This step-by-step roadmap covers the essential skills you must learn to become a data analyst in 2024. \n\n❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\nDownload the FREE roadmap PDF here: https://mosh.link/data-analyst-roadmap\n\n✋ Stay connected\n\n- Complete courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/\n\n📚 Tutorials \n\nhttps://youtu.be/_uQrJ0TkZlc?si=ZhlCrQs1SkaPNVa8\nhttps://youtu.be/8JJ101D3knE?si=OGTuS35LQqSunuhh\nhttps://youtu.be/7S_tz1z_5bA?si=QL7s_M2Ao90RDwG8\n\n📖 Chapters\n\n00:00 - Introduction\n00:20 - Mathematics & Statistics\n00:42 - Excel\n00:59 - SQL\n01:18 - Python \n01:41 - Git \n02:23 - Data Collection and Preprocessing\n02:39 - Data Visualization \n03:07 - Machine Learning Fundamentals\n03:26 - Big Data\n\n#dataanalyst #datascience #machinelearning",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/YRJbhFLLPyE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/YRJbhFLLPyE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/YRJbhFLLPyE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/YRJbhFLLPyE/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/YRJbhFLLPyE/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Programming with Mosh",
+                    "tags": [
+                        "data analyst roadmap",
+                        "data analyst",
+                        "machine learning",
+                        "data science",
+                        "excel",
+                        "how to become a data analyst",
+                        "data analyst beginner",
+                        "data analytics career",
+                        "how to become data analyst",
+                        "become a data analyst",
+                        "step by step roadmap to become data analyst",
+                        "data analytics",
+                        "power bi",
+                        "complete data analyst roadmap",
+                        "code with mosh",
+                        "programming with mosh",
+                        "mosh hamedani"
+                    ],
+                    "categoryId": "27",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "The Complete Data Analyst Roadmap",
+                        "description": "Go from zero to a data analyst in 8-16 months. This step-by-step roadmap covers the essential skills you must learn to become a data analyst in 2024. \n\n❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\nDownload the FREE roadmap PDF here: https://mosh.link/data-analyst-roadmap\n\n✋ Stay connected\n\n- Complete courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/\n\n📚 Tutorials \n\nhttps://youtu.be/_uQrJ0TkZlc?si=ZhlCrQs1SkaPNVa8\nhttps://youtu.be/8JJ101D3knE?si=OGTuS35LQqSunuhh\nhttps://youtu.be/7S_tz1z_5bA?si=QL7s_M2Ao90RDwG8\n\n📖 Chapters\n\n00:00 - Introduction\n00:20 - Mathematics & Statistics\n00:42 - Excel\n00:59 - SQL\n01:18 - Python \n01:41 - Git \n02:23 - Data Collection and Preprocessing\n02:39 - Data Visualization \n03:07 - Machine Learning Fundamentals\n03:26 - Big Data\n\n#dataanalyst #datascience #machinelearning"
                     },
                     "defaultAudioLanguage": "en"
                 }
@@ -1139,77 +1139,6 @@
     },
     {
         "kind": "youtube#videoListResponse",
-        "etag": "QFsA6z57DJFz3KP_Gjdx-65Mi_4",
-        "items": [
-            {
-                "kind": "youtube#video",
-                "etag": "-WQyU5CaWFc4nLcHHzC3llHz1Pw",
-                "id": "NKmasqr_Xkw",
-                "snippet": {
-                    "publishedAt": "2018-11-13T15:00:02Z",
-                    "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
-                    "title": "Python Stacks - Python Tutorial for Absolute Beginners | Mosh",
-                    "description": "Learn how to use stacks in Python. \n\n🔥Subscribe for more Python tutorials like this: https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\n🔥Python for Beginners Tutorial: https://youtu.be/yE9v9rt6ziw\n\nPython Exercises for Beginners: \nhttps://programmingwithmosh.com/python/python-exercises-and-questions-for-beginners/\n\nPython Cheat Sheet: \nhttps://programmingwithmosh.com/python/python-3-cheat-sheet/\n\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani",
-                    "thumbnails": {
-                        "default": {
-                            "url": "https://i.ytimg.com/vi/NKmasqr_Xkw/default.jpg",
-                            "width": 120,
-                            "height": 90
-                        },
-                        "medium": {
-                            "url": "https://i.ytimg.com/vi/NKmasqr_Xkw/mqdefault.jpg",
-                            "width": 320,
-                            "height": 180
-                        },
-                        "high": {
-                            "url": "https://i.ytimg.com/vi/NKmasqr_Xkw/hqdefault.jpg",
-                            "width": 480,
-                            "height": 360
-                        },
-                        "standard": {
-                            "url": "https://i.ytimg.com/vi/NKmasqr_Xkw/sddefault.jpg",
-                            "width": 640,
-                            "height": 480
-                        },
-                        "maxres": {
-                            "url": "https://i.ytimg.com/vi/NKmasqr_Xkw/maxresdefault.jpg",
-                            "width": 1280,
-                            "height": 720
-                        }
-                    },
-                    "channelTitle": "Programming with Mosh",
-                    "tags": [
-                        "code with mosh",
-                        "data structure",
-                        "learn python",
-                        "python (programming language)",
-                        "python data structures",
-                        "python for beginners",
-                        "python language",
-                        "python programming",
-                        "python stack",
-                        "python tutorial",
-                        "python tutorial for beginners",
-                        "stacks and queues"
-                    ],
-                    "categoryId": "27",
-                    "liveBroadcastContent": "none",
-                    "defaultLanguage": "en",
-                    "localized": {
-                        "title": "Python Stacks - Python Tutorial for Absolute Beginners | Mosh",
-                        "description": "Learn how to use stacks in Python. \n\n🔥Subscribe for more Python tutorials like this: https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\n🔥Python for Beginners Tutorial: https://youtu.be/yE9v9rt6ziw\n\nPython Exercises for Beginners: \nhttps://programmingwithmosh.com/python/python-exercises-and-questions-for-beginners/\n\nPython Cheat Sheet: \nhttps://programmingwithmosh.com/python/python-3-cheat-sheet/\n\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani"
-                    },
-                    "defaultAudioLanguage": "en-US"
-                }
-            }
-        ],
-        "pageInfo": {
-            "totalResults": 1,
-            "resultsPerPage": 1
-        }
-    },
-    {
-        "kind": "youtube#videoListResponse",
         "etag": "S__GnqSN9ZSJw7A6C-cRp_jBHBI",
         "items": [
             {
@@ -1346,6 +1275,77 @@
                         "description": "Learn how Spring Boot simplifies Java development and why it's a must-have skill for developers!\n\n🚀 Want to build your first Spring Boot application? Watch my tutorial here: https://youtu.be/gJrjgg1KVL4?si=iyduMaeArvy2xlJg\n\n❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\n✋ Stay connected:\n- Full Courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/\n\n#springboot #java #backend"
                     },
                     "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "QFsA6z57DJFz3KP_Gjdx-65Mi_4",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "-WQyU5CaWFc4nLcHHzC3llHz1Pw",
+                "id": "NKmasqr_Xkw",
+                "snippet": {
+                    "publishedAt": "2018-11-13T15:00:02Z",
+                    "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+                    "title": "Python Stacks - Python Tutorial for Absolute Beginners | Mosh",
+                    "description": "Learn how to use stacks in Python. \n\n🔥Subscribe for more Python tutorials like this: https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\n🔥Python for Beginners Tutorial: https://youtu.be/yE9v9rt6ziw\n\nPython Exercises for Beginners: \nhttps://programmingwithmosh.com/python/python-exercises-and-questions-for-beginners/\n\nPython Cheat Sheet: \nhttps://programmingwithmosh.com/python/python-3-cheat-sheet/\n\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/NKmasqr_Xkw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/NKmasqr_Xkw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/NKmasqr_Xkw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/NKmasqr_Xkw/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/NKmasqr_Xkw/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Programming with Mosh",
+                    "tags": [
+                        "code with mosh",
+                        "data structure",
+                        "learn python",
+                        "python (programming language)",
+                        "python data structures",
+                        "python for beginners",
+                        "python language",
+                        "python programming",
+                        "python stack",
+                        "python tutorial",
+                        "python tutorial for beginners",
+                        "stacks and queues"
+                    ],
+                    "categoryId": "27",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Python Stacks - Python Tutorial for Absolute Beginners | Mosh",
+                        "description": "Learn how to use stacks in Python. \n\n🔥Subscribe for more Python tutorials like this: https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\n🔥Python for Beginners Tutorial: https://youtu.be/yE9v9rt6ziw\n\nPython Exercises for Beginners: \nhttps://programmingwithmosh.com/python/python-exercises-and-questions-for-beginners/\n\nPython Cheat Sheet: \nhttps://programmingwithmosh.com/python/python-3-cheat-sheet/\n\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani"
+                    },
+                    "defaultAudioLanguage": "en-US"
                 }
             }
         ],
@@ -1495,83 +1495,6 @@
                         "description": "Go from zero to a machine learning engineer in 12 months. This step-by-step roadmap covers the essential skills you must learn to become a machine learning engineer in 2024. \n\n❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\nDownload the FREE roadmap PDF here: https://mosh.link/machine-learning-roadmap\n\n✋ Stay connected\n\n- Complete courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/\n\n🔗 Other roadmaps\n\nhttps://youtu.be/Tef1e9FiSR0?si=QpVnZ_o9-DAXzT71\nhttps://youtu.be/OeEHJgzqS1k?si=qd0ZIqAzUpZQn6BX\n\n📚 Tutorials \n\nhttps://youtu.be/_uQrJ0TkZlc?si=ZhlCrQs1SkaPNVa8\nhttps://youtu.be/8JJ101D3knE?si=OGTuS35LQqSunuhh\nhttps://youtu.be/BBpAmxU_NQo?si=dm-ZCPxVBYWS1Qhn\nhttps://youtu.be/7S_tz1z_5bA?si=QL7s_M2Ao90RDwG8\n\n📖 Chapters\n\n00:00 - Introduction\n00:20 - Programming Languages\n00:42 - Version Control\n01:03 - Data Structures & Algorithms \n01:35 - SQL\n01:55 - The Complete Roadmap PDF\n02:19 - Mathematics & Statistics\n02:40 - Data Handling \n03:15 - Machine Learning Fundamentals\n03:57 - Advanced Topics \n04:28 - Model Deployment\n\n#machinelearning #ai #datascience #coding #programming"
                     },
                     "defaultAudioLanguage": "en"
-                }
-            }
-        ],
-        "pageInfo": {
-            "totalResults": 1,
-            "resultsPerPage": 1
-        }
-    },
-    {
-        "kind": "youtube#videoListResponse",
-        "etag": "MLjxkcgkZvPnj23G6RceDBsppME",
-        "items": [
-            {
-                "kind": "youtube#video",
-                "etag": "5sGU5oY1fBou9UaR51JU6JDSWqM",
-                "id": "r16Rn4_jDfk",
-                "snippet": {
-                    "publishedAt": "2019-01-08T21:43:10Z",
-                    "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
-                    "title": "How to Learn to Code and Make $60k+ a Year",
-                    "description": "Wondering how to learn to code? What programming languages to learn? Watch this video to find out. \nPython tutorial for beginners: https://youtu.be/_uQrJ0TkZlc\n\nThis video answers the frequently asked questions by beginners who want to learn how to code fast:\n\n- What you need to learn to code\n- What programming languages you should learn \n- Where to learn to code\n- Why colleges are a waste of time \n- How long it takes to learn programming and get a job\n- How to prepare for programming job interviews \n\n🔥Subscribe for more tutorials like this: https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\n\nLEARNING RESOURCES\nLearn how to code with Python: \nhttps://youtu.be/_uQrJ0TkZlc\n\nAsk your questions here: \nhttp://stackoverflow.com \n \nPython exercises for beginners: \nhttps://programmingwithmosh.com/python/python-exercises-and-questions-for-beginners/\n\n\nPREPARING FOR JOBS \nUpload your code to http://github.com \n\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani",
-                    "thumbnails": {
-                        "default": {
-                            "url": "https://i.ytimg.com/vi/r16Rn4_jDfk/default.jpg",
-                            "width": 120,
-                            "height": 90
-                        },
-                        "medium": {
-                            "url": "https://i.ytimg.com/vi/r16Rn4_jDfk/mqdefault.jpg",
-                            "width": 320,
-                            "height": 180
-                        },
-                        "high": {
-                            "url": "https://i.ytimg.com/vi/r16Rn4_jDfk/hqdefault.jpg",
-                            "width": 480,
-                            "height": 360
-                        },
-                        "standard": {
-                            "url": "https://i.ytimg.com/vi/r16Rn4_jDfk/sddefault.jpg",
-                            "width": 640,
-                            "height": 480
-                        },
-                        "maxres": {
-                            "url": "https://i.ytimg.com/vi/r16Rn4_jDfk/maxresdefault.jpg",
-                            "width": 1280,
-                            "height": 720
-                        }
-                    },
-                    "channelTitle": "Programming with Mosh",
-                    "tags": [
-                        "how to learn to code",
-                        "how to learn to code fast",
-                        "how to learn to code for beginners",
-                        "how to learn to code quickly and easily",
-                        "how to learn programming for beginners",
-                        "learning to code",
-                        "coding for beginners",
-                        "computer programming",
-                        "web development",
-                        "mosh hamedani",
-                        "programming with mosh",
-                        "code with mosh",
-                        "python",
-                        "python programming",
-                        "learn to code",
-                        "how code",
-                        "learn to program",
-                        "coding jobs"
-                    ],
-                    "categoryId": "27",
-                    "liveBroadcastContent": "none",
-                    "defaultLanguage": "en",
-                    "localized": {
-                        "title": "How to Learn to Code and Make $60k+ a Year",
-                        "description": "Wondering how to learn to code? What programming languages to learn? Watch this video to find out. \nPython tutorial for beginners: https://youtu.be/_uQrJ0TkZlc\n\nThis video answers the frequently asked questions by beginners who want to learn how to code fast:\n\n- What you need to learn to code\n- What programming languages you should learn \n- Where to learn to code\n- Why colleges are a waste of time \n- How long it takes to learn programming and get a job\n- How to prepare for programming job interviews \n\n🔥Subscribe for more tutorials like this: https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\n\nLEARNING RESOURCES\nLearn how to code with Python: \nhttps://youtu.be/_uQrJ0TkZlc\n\nAsk your questions here: \nhttp://stackoverflow.com \n \nPython exercises for beginners: \nhttps://programmingwithmosh.com/python/python-exercises-and-questions-for-beginners/\n\n\nPREPARING FOR JOBS \nUpload your code to http://github.com \n\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani"
-                    },
-                    "defaultAudioLanguage": "en-US"
                 }
             }
         ],
@@ -2344,6 +2267,82 @@
     },
     {
         "kind": "youtube#videoListResponse",
+        "etag": "2bhbaDEKbP7hzQI4cFhnP2aGs6o",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "d45laNkq_2tG5vM3Qpk54GbR62U",
+                "id": "bshe96X5KkA",
+                "snippet": {
+                    "publishedAt": "2025-08-26T12:30:47Z",
+                    "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+                    "title": "AI Course for Developers - Build AI-Powered Apps",
+                    "description": "❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\n✋ Stay connected:\n- Full Courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/bshe96X5KkA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/bshe96X5KkA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/bshe96X5KkA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/bshe96X5KkA/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/bshe96X5KkA/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Programming with Mosh",
+                    "tags": [
+                        "ai course",
+                        "learn ai",
+                        "ai course for developers",
+                        "ai engineering",
+                        "generative ai",
+                        "ai developer",
+                        "open ai",
+                        "openai",
+                        "ai for beginners",
+                        "ai full course",
+                        "large language models",
+                        "llms",
+                        "code with mosh",
+                        "programming with mosh",
+                        "mosh hamedani",
+                        "web development",
+                        "programming"
+                    ],
+                    "categoryId": "27",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "AI Course for Developers - Build AI-Powered Apps",
+                        "description": "❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\n✋ Stay connected:\n- Full Courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
         "etag": "N2-IwWoV_YQ-fE1Nn3DbQHmU2YU",
         "items": [
             {
@@ -2405,6 +2404,80 @@
                         "description": "4 pillars of object-oriented programming: encapsulation, abstraction, inheritance and polymorphism. \n\n❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\n✋ Stay connected\n\n- Complete courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/"
                     },
                     "defaultAudioLanguage": "en-US"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "mm5TWj09H2P8dR0tNWVDFMe-ey8",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "2C6FAlVnJBBEquoUs1Vd_ag3U_k",
+                "id": "yye7rSsiV6k",
+                "snippet": {
+                    "publishedAt": "2024-07-04T13:01:03Z",
+                    "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+                    "title": "The Complete App Development Roadmap",
+                    "description": "Go from zero to a mobile app developer in 12 months. This step-by-step roadmap covers the essential skills and latest technologies to become an app developer. \n\n❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\nDownload the FREE roadmap PDF here: https://mosh.link/mobile-roadmap\n\n✋ Stay connected\n\n- Complete courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/\n\n🔗 Other roadmaps\n\nhttps://youtu.be/Tef1e9FiSR0?si=QpVnZ_o9-DAXzT71\nhttps://youtu.be/OeEHJgzqS1k?si=qd0ZIqAzUpZQn6BX\n\n📚 Tutorials \n\nhttps://youtu.be/W6NZfCO5SIk?si=yS0lQXyy3qwQF3DA\nhttps://youtu.be/8JJ101D3knE?si=OGTuS35LQqSunuhh\nhttps://youtu.be/BBpAmxU_NQo?si=dm-ZCPxVBYWS1Qhn\nhttps://youtu.be/NU_1StN5Tkk?si=gsMONPdgxouQOolu\nhttps://youtu.be/SqcY0GlETPk?si=O93IXejTVuh_5cbY\nhttps://youtu.be/0-S5a0eXPoc?si=yP7qia07NN2FMeS2\n\n\n📖 Chapters\n\n00:00 - Introduction\n00:08 - Native vs Cross-platform Development\n04:08 - Languages\n04:57 - Version control (Git)\n05:25 - Data structures & algorithms \n06:12 - Design patterns \n07:14 - Mobile frameworks\n\n#appdevelopment #coding #programming",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/yye7rSsiV6k/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/yye7rSsiV6k/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/yye7rSsiV6k/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/yye7rSsiV6k/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/yye7rSsiV6k/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Programming with Mosh",
+                    "tags": [
+                        "app development roadmap",
+                        "app development",
+                        "react native",
+                        "flutter",
+                        "android app development",
+                        "ios app development",
+                        "programming",
+                        "programming with mosh",
+                        "code with mosh",
+                        "mosh hamedani",
+                        "how to make an app",
+                        "coding",
+                        "flutter app development",
+                        "mobile development",
+                        "should i use flutter"
+                    ],
+                    "categoryId": "27",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "The Complete App Development Roadmap",
+                        "description": "Go from zero to a mobile app developer in 12 months. This step-by-step roadmap covers the essential skills and latest technologies to become an app developer. \n\n❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\nDownload the FREE roadmap PDF here: https://mosh.link/mobile-roadmap\n\n✋ Stay connected\n\n- Complete courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/\n\n🔗 Other roadmaps\n\nhttps://youtu.be/Tef1e9FiSR0?si=QpVnZ_o9-DAXzT71\nhttps://youtu.be/OeEHJgzqS1k?si=qd0ZIqAzUpZQn6BX\n\n📚 Tutorials \n\nhttps://youtu.be/W6NZfCO5SIk?si=yS0lQXyy3qwQF3DA\nhttps://youtu.be/8JJ101D3knE?si=OGTuS35LQqSunuhh\nhttps://youtu.be/BBpAmxU_NQo?si=dm-ZCPxVBYWS1Qhn\nhttps://youtu.be/NU_1StN5Tkk?si=gsMONPdgxouQOolu\nhttps://youtu.be/SqcY0GlETPk?si=O93IXejTVuh_5cbY\nhttps://youtu.be/0-S5a0eXPoc?si=yP7qia07NN2FMeS2\n\n\n📖 Chapters\n\n00:00 - Introduction\n00:08 - Native vs Cross-platform Development\n04:08 - Languages\n04:57 - Version control (Git)\n05:25 - Data structures & algorithms \n06:12 - Design patterns \n07:14 - Mobile frameworks\n\n#appdevelopment #coding #programming"
+                    },
+                    "defaultAudioLanguage": "en"
                 }
             }
         ],
@@ -2492,70 +2565,73 @@
     },
     {
         "kind": "youtube#videoListResponse",
-        "etag": "mm5TWj09H2P8dR0tNWVDFMe-ey8",
+        "etag": "MLjxkcgkZvPnj23G6RceDBsppME",
         "items": [
             {
                 "kind": "youtube#video",
-                "etag": "2C6FAlVnJBBEquoUs1Vd_ag3U_k",
-                "id": "yye7rSsiV6k",
+                "etag": "5sGU5oY1fBou9UaR51JU6JDSWqM",
+                "id": "r16Rn4_jDfk",
                 "snippet": {
-                    "publishedAt": "2024-07-04T13:01:03Z",
+                    "publishedAt": "2019-01-08T21:43:10Z",
                     "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
-                    "title": "The Complete App Development Roadmap",
-                    "description": "Go from zero to a mobile app developer in 12 months. This step-by-step roadmap covers the essential skills and latest technologies to become an app developer. \n\n❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\nDownload the FREE roadmap PDF here: https://mosh.link/mobile-roadmap\n\n✋ Stay connected\n\n- Complete courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/\n\n🔗 Other roadmaps\n\nhttps://youtu.be/Tef1e9FiSR0?si=QpVnZ_o9-DAXzT71\nhttps://youtu.be/OeEHJgzqS1k?si=qd0ZIqAzUpZQn6BX\n\n📚 Tutorials \n\nhttps://youtu.be/W6NZfCO5SIk?si=yS0lQXyy3qwQF3DA\nhttps://youtu.be/8JJ101D3knE?si=OGTuS35LQqSunuhh\nhttps://youtu.be/BBpAmxU_NQo?si=dm-ZCPxVBYWS1Qhn\nhttps://youtu.be/NU_1StN5Tkk?si=gsMONPdgxouQOolu\nhttps://youtu.be/SqcY0GlETPk?si=O93IXejTVuh_5cbY\nhttps://youtu.be/0-S5a0eXPoc?si=yP7qia07NN2FMeS2\n\n\n📖 Chapters\n\n00:00 - Introduction\n00:08 - Native vs Cross-platform Development\n04:08 - Languages\n04:57 - Version control (Git)\n05:25 - Data structures & algorithms \n06:12 - Design patterns \n07:14 - Mobile frameworks\n\n#appdevelopment #coding #programming",
+                    "title": "How to Learn to Code and Make $60k+ a Year",
+                    "description": "Wondering how to learn to code? What programming languages to learn? Watch this video to find out. \nPython tutorial for beginners: https://youtu.be/_uQrJ0TkZlc\n\nThis video answers the frequently asked questions by beginners who want to learn how to code fast:\n\n- What you need to learn to code\n- What programming languages you should learn \n- Where to learn to code\n- Why colleges are a waste of time \n- How long it takes to learn programming and get a job\n- How to prepare for programming job interviews \n\n🔥Subscribe for more tutorials like this: https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\n\nLEARNING RESOURCES\nLearn how to code with Python: \nhttps://youtu.be/_uQrJ0TkZlc\n\nAsk your questions here: \nhttp://stackoverflow.com \n \nPython exercises for beginners: \nhttps://programmingwithmosh.com/python/python-exercises-and-questions-for-beginners/\n\n\nPREPARING FOR JOBS \nUpload your code to http://github.com \n\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani",
                     "thumbnails": {
                         "default": {
-                            "url": "https://i.ytimg.com/vi/yye7rSsiV6k/default.jpg",
+                            "url": "https://i.ytimg.com/vi/r16Rn4_jDfk/default.jpg",
                             "width": 120,
                             "height": 90
                         },
                         "medium": {
-                            "url": "https://i.ytimg.com/vi/yye7rSsiV6k/mqdefault.jpg",
+                            "url": "https://i.ytimg.com/vi/r16Rn4_jDfk/mqdefault.jpg",
                             "width": 320,
                             "height": 180
                         },
                         "high": {
-                            "url": "https://i.ytimg.com/vi/yye7rSsiV6k/hqdefault.jpg",
+                            "url": "https://i.ytimg.com/vi/r16Rn4_jDfk/hqdefault.jpg",
                             "width": 480,
                             "height": 360
                         },
                         "standard": {
-                            "url": "https://i.ytimg.com/vi/yye7rSsiV6k/sddefault.jpg",
+                            "url": "https://i.ytimg.com/vi/r16Rn4_jDfk/sddefault.jpg",
                             "width": 640,
                             "height": 480
                         },
                         "maxres": {
-                            "url": "https://i.ytimg.com/vi/yye7rSsiV6k/maxresdefault.jpg",
+                            "url": "https://i.ytimg.com/vi/r16Rn4_jDfk/maxresdefault.jpg",
                             "width": 1280,
                             "height": 720
                         }
                     },
                     "channelTitle": "Programming with Mosh",
                     "tags": [
-                        "app development roadmap",
-                        "app development",
-                        "react native",
-                        "flutter",
-                        "android app development",
-                        "ios app development",
-                        "programming",
+                        "how to learn to code",
+                        "how to learn to code fast",
+                        "how to learn to code for beginners",
+                        "how to learn to code quickly and easily",
+                        "how to learn programming for beginners",
+                        "learning to code",
+                        "coding for beginners",
+                        "computer programming",
+                        "web development",
+                        "mosh hamedani",
                         "programming with mosh",
                         "code with mosh",
-                        "mosh hamedani",
-                        "how to make an app",
-                        "coding",
-                        "flutter app development",
-                        "mobile development",
-                        "should i use flutter"
+                        "python",
+                        "python programming",
+                        "learn to code",
+                        "how code",
+                        "learn to program",
+                        "coding jobs"
                     ],
                     "categoryId": "27",
                     "liveBroadcastContent": "none",
                     "defaultLanguage": "en",
                     "localized": {
-                        "title": "The Complete App Development Roadmap",
-                        "description": "Go from zero to a mobile app developer in 12 months. This step-by-step roadmap covers the essential skills and latest technologies to become an app developer. \n\n❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\nDownload the FREE roadmap PDF here: https://mosh.link/mobile-roadmap\n\n✋ Stay connected\n\n- Complete courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/\n\n🔗 Other roadmaps\n\nhttps://youtu.be/Tef1e9FiSR0?si=QpVnZ_o9-DAXzT71\nhttps://youtu.be/OeEHJgzqS1k?si=qd0ZIqAzUpZQn6BX\n\n📚 Tutorials \n\nhttps://youtu.be/W6NZfCO5SIk?si=yS0lQXyy3qwQF3DA\nhttps://youtu.be/8JJ101D3knE?si=OGTuS35LQqSunuhh\nhttps://youtu.be/BBpAmxU_NQo?si=dm-ZCPxVBYWS1Qhn\nhttps://youtu.be/NU_1StN5Tkk?si=gsMONPdgxouQOolu\nhttps://youtu.be/SqcY0GlETPk?si=O93IXejTVuh_5cbY\nhttps://youtu.be/0-S5a0eXPoc?si=yP7qia07NN2FMeS2\n\n\n📖 Chapters\n\n00:00 - Introduction\n00:08 - Native vs Cross-platform Development\n04:08 - Languages\n04:57 - Version control (Git)\n05:25 - Data structures & algorithms \n06:12 - Design patterns \n07:14 - Mobile frameworks\n\n#appdevelopment #coding #programming"
+                        "title": "How to Learn to Code and Make $60k+ a Year",
+                        "description": "Wondering how to learn to code? What programming languages to learn? Watch this video to find out. \nPython tutorial for beginners: https://youtu.be/_uQrJ0TkZlc\n\nThis video answers the frequently asked questions by beginners who want to learn how to code fast:\n\n- What you need to learn to code\n- What programming languages you should learn \n- Where to learn to code\n- Why colleges are a waste of time \n- How long it takes to learn programming and get a job\n- How to prepare for programming job interviews \n\n🔥Subscribe for more tutorials like this: https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\n\nLEARNING RESOURCES\nLearn how to code with Python: \nhttps://youtu.be/_uQrJ0TkZlc\n\nAsk your questions here: \nhttp://stackoverflow.com \n \nPython exercises for beginners: \nhttps://programmingwithmosh.com/python/python-exercises-and-questions-for-beginners/\n\n\nPREPARING FOR JOBS \nUpload your code to http://github.com \n\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani"
                     },
-                    "defaultAudioLanguage": "en"
+                    "defaultAudioLanguage": "en-US"
                 }
             }
         ],
@@ -2712,83 +2788,6 @@
     },
     {
         "kind": "youtube#videoListResponse",
-        "etag": "fy4R_OFTLd3H5gWNfoAZdJsHC3I",
-        "items": [
-            {
-                "kind": "youtube#video",
-                "etag": "c7dttr7kDvDhdtokhnE2SvwAxnU",
-                "id": "XgSjoHgy3Rk",
-                "snippet": {
-                    "publishedAt": "2018-05-15T22:52:37Z",
-                    "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
-                    "title": "JavaScript Let vs Var vs Constant | Mosh",
-                    "description": "JavaScript Let vs Var vs Constant - \n\n🔥Get the COMPLETE course (83% OFF - LIMITED TIME ONLY): http://bit.ly/2KZea52\n\nSubscribe for more videos: \nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani",
-                    "thumbnails": {
-                        "default": {
-                            "url": "https://i.ytimg.com/vi/XgSjoHgy3Rk/default.jpg",
-                            "width": 120,
-                            "height": 90
-                        },
-                        "medium": {
-                            "url": "https://i.ytimg.com/vi/XgSjoHgy3Rk/mqdefault.jpg",
-                            "width": 320,
-                            "height": 180
-                        },
-                        "high": {
-                            "url": "https://i.ytimg.com/vi/XgSjoHgy3Rk/hqdefault.jpg",
-                            "width": 480,
-                            "height": 360
-                        },
-                        "standard": {
-                            "url": "https://i.ytimg.com/vi/XgSjoHgy3Rk/sddefault.jpg",
-                            "width": 640,
-                            "height": 480
-                        },
-                        "maxres": {
-                            "url": "https://i.ytimg.com/vi/XgSjoHgy3Rk/maxresdefault.jpg",
-                            "width": 1280,
-                            "height": 720
-                        }
-                    },
-                    "channelTitle": "Programming with Mosh",
-                    "tags": [
-                        "Javascript",
-                        "web development",
-                        "web developer",
-                        "front end",
-                        "front-end",
-                        "back-end",
-                        "back end",
-                        "mobile development",
-                        "mobile developer",
-                        "es6",
-                        "learn javascript",
-                        "javascript programming",
-                        "programming",
-                        "es2015",
-                        "let",
-                        "var",
-                        "code with mosh",
-                        "programming with mosh"
-                    ],
-                    "categoryId": "22",
-                    "liveBroadcastContent": "none",
-                    "defaultLanguage": "en",
-                    "localized": {
-                        "title": "JavaScript Let vs Var vs Constant | Mosh",
-                        "description": "JavaScript Let vs Var vs Constant - \n\n🔥Get the COMPLETE course (83% OFF - LIMITED TIME ONLY): http://bit.ly/2KZea52\n\nSubscribe for more videos: \nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani"
-                    },
-                    "defaultAudioLanguage": "en"
-                }
-            }
-        ],
-        "pageInfo": {
-            "totalResults": 1,
-            "resultsPerPage": 1
-        }
-    },
-    {
-        "kind": "youtube#videoListResponse",
         "etag": "SmFtroGTyiYJZHp7qEQcPLvVad0",
         "items": [
             {
@@ -2854,6 +2853,83 @@
                     "localized": {
                         "title": "JavaScript Factory Functions",
                         "description": "JavaScript factory functions made simple. \n\n🔥Get the COMPLETE course (83% OFF - LIMITED TIME ONLY): http://bit.ly/2M1sp4B\n\n\nSubscribe for more videos: \nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "fy4R_OFTLd3H5gWNfoAZdJsHC3I",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "c7dttr7kDvDhdtokhnE2SvwAxnU",
+                "id": "XgSjoHgy3Rk",
+                "snippet": {
+                    "publishedAt": "2018-05-15T22:52:37Z",
+                    "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+                    "title": "JavaScript Let vs Var vs Constant | Mosh",
+                    "description": "JavaScript Let vs Var vs Constant - \n\n🔥Get the COMPLETE course (83% OFF - LIMITED TIME ONLY): http://bit.ly/2KZea52\n\nSubscribe for more videos: \nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/XgSjoHgy3Rk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/XgSjoHgy3Rk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/XgSjoHgy3Rk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/XgSjoHgy3Rk/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/XgSjoHgy3Rk/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Programming with Mosh",
+                    "tags": [
+                        "Javascript",
+                        "web development",
+                        "web developer",
+                        "front end",
+                        "front-end",
+                        "back-end",
+                        "back end",
+                        "mobile development",
+                        "mobile developer",
+                        "es6",
+                        "learn javascript",
+                        "javascript programming",
+                        "programming",
+                        "es2015",
+                        "let",
+                        "var",
+                        "code with mosh",
+                        "programming with mosh"
+                    ],
+                    "categoryId": "22",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "JavaScript Let vs Var vs Constant | Mosh",
+                        "description": "JavaScript Let vs Var vs Constant - \n\n🔥Get the COMPLETE course (83% OFF - LIMITED TIME ONLY): http://bit.ly/2KZea52\n\nSubscribe for more videos: \nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani"
                     },
                     "defaultAudioLanguage": "en"
                 }
@@ -3014,82 +3090,6 @@
                     "localized": {
                         "title": "The Complete DevOps Roadmap",
                         "description": "Go from zero to a DevOps Engineer in 10-14 months. This step-by-step roadmap covers the essential skills you need to become a DevOps Engineer in 2024. \n\n❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\nDownload the FREE roadmap PDF here: https://mosh.link/devops-roadmap\n\n✋ Stay connected\n\n- Complete courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/\n\n📚 Tutorials \n\nhttps://youtu.be/_uQrJ0TkZlc?si=ZhlCrQs1SkaPNVa8\nhttps://youtu.be/8JJ101D3knE?si=OGTuS35LQqSunuhh\nhttps://youtu.be/pTFZFxd4hOI?si=DkijlBq9w076bm2l\n\n📖 Chapters\n\n00:00 - Introduction\n00:25 - Linux Fundamentals\n00:59 - Networking Concepts\n01:38 - Git\n02:03 - Programming Languages\n03:03 - Cloud Providers\n03:36 - Containerization\n04:04 - Continuous Integration/Continuous Deployment (CI/CD)\n04:51 - Container Orchestration\n05:28 - Networking & Infrastructure Services \n06:00 - Configuration Management \n06:26 - Infrastructure as Code (IaC)\n07:04 - Monitoring & Logging\n\n#devops"
-                    },
-                    "defaultAudioLanguage": "en"
-                }
-            }
-        ],
-        "pageInfo": {
-            "totalResults": 1,
-            "resultsPerPage": 1
-        }
-    },
-    {
-        "kind": "youtube#videoListResponse",
-        "etag": "2bhbaDEKbP7hzQI4cFhnP2aGs6o",
-        "items": [
-            {
-                "kind": "youtube#video",
-                "etag": "d45laNkq_2tG5vM3Qpk54GbR62U",
-                "id": "bshe96X5KkA",
-                "snippet": {
-                    "publishedAt": "2025-08-26T12:30:47Z",
-                    "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
-                    "title": "AI Course for Developers - Build AI-Powered Apps",
-                    "description": "❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\n✋ Stay connected:\n- Full Courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/",
-                    "thumbnails": {
-                        "default": {
-                            "url": "https://i.ytimg.com/vi/bshe96X5KkA/default.jpg",
-                            "width": 120,
-                            "height": 90
-                        },
-                        "medium": {
-                            "url": "https://i.ytimg.com/vi/bshe96X5KkA/mqdefault.jpg",
-                            "width": 320,
-                            "height": 180
-                        },
-                        "high": {
-                            "url": "https://i.ytimg.com/vi/bshe96X5KkA/hqdefault.jpg",
-                            "width": 480,
-                            "height": 360
-                        },
-                        "standard": {
-                            "url": "https://i.ytimg.com/vi/bshe96X5KkA/sddefault.jpg",
-                            "width": 640,
-                            "height": 480
-                        },
-                        "maxres": {
-                            "url": "https://i.ytimg.com/vi/bshe96X5KkA/maxresdefault.jpg",
-                            "width": 1280,
-                            "height": 720
-                        }
-                    },
-                    "channelTitle": "Programming with Mosh",
-                    "tags": [
-                        "ai course",
-                        "learn ai",
-                        "ai course for developers",
-                        "ai engineering",
-                        "generative ai",
-                        "ai developer",
-                        "open ai",
-                        "openai",
-                        "ai for beginners",
-                        "ai full course",
-                        "large language models",
-                        "llms",
-                        "code with mosh",
-                        "programming with mosh",
-                        "mosh hamedani",
-                        "web development",
-                        "programming"
-                    ],
-                    "categoryId": "27",
-                    "liveBroadcastContent": "none",
-                    "defaultLanguage": "en",
-                    "localized": {
-                        "title": "AI Course for Developers - Build AI-Powered Apps",
-                        "description": "❤️ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join\n\n✋ Stay connected:\n- Full Courses: https://codewithmosh.com\n- Twitter: https://twitter.com/moshhamedani\n- Facebook: https://www.facebook.com/programmingwithmosh/\n- Instagram: https://www.instagram.com/codewithmosh.official/\n- LinkedIn: https://www.linkedin.com/school/codewithmosh/"
                     },
                     "defaultAudioLanguage": "en"
                 }
@@ -3619,76 +3619,6 @@
     },
     {
         "kind": "youtube#videoListResponse",
-        "etag": "Of9amHTTzP5J3OlxK5MzFp7Gr_A",
-        "items": [
-            {
-                "kind": "youtube#video",
-                "etag": "O3iF2uZ4yxwuKMbmwujFX-D0Joo",
-                "id": "ZqDtPFrUonQ",
-                "snippet": {
-                    "publishedAt": "2017-11-08T18:49:27Z",
-                    "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
-                    "title": "C# Classes Tutorial | Mosh",
-                    "description": "Learn and understand classes in C#\n\n🔥Get the COMPLETE Course: http://bit.ly/2LhL39u\n\nSUBSCRIBE FOR MORE VIDEOS!\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\nSTAY IN TOUCH\nhttps://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani",
-                    "thumbnails": {
-                        "default": {
-                            "url": "https://i.ytimg.com/vi/ZqDtPFrUonQ/default.jpg",
-                            "width": 120,
-                            "height": 90
-                        },
-                        "medium": {
-                            "url": "https://i.ytimg.com/vi/ZqDtPFrUonQ/mqdefault.jpg",
-                            "width": 320,
-                            "height": 180
-                        },
-                        "high": {
-                            "url": "https://i.ytimg.com/vi/ZqDtPFrUonQ/hqdefault.jpg",
-                            "width": 480,
-                            "height": 360
-                        },
-                        "standard": {
-                            "url": "https://i.ytimg.com/vi/ZqDtPFrUonQ/sddefault.jpg",
-                            "width": 640,
-                            "height": 480
-                        },
-                        "maxres": {
-                            "url": "https://i.ytimg.com/vi/ZqDtPFrUonQ/maxresdefault.jpg",
-                            "width": 1280,
-                            "height": 720
-                        }
-                    },
-                    "channelTitle": "Programming with Mosh",
-                    "tags": [
-                        "c#",
-                        "csharp",
-                        ".net",
-                        "programming with mosh",
-                        "code with mosh",
-                        "c# (programming language)",
-                        "c# programming",
-                        "learn c#",
-                        "c# tutorial",
-                        "object oriented programming",
-                        "c sharp"
-                    ],
-                    "categoryId": "22",
-                    "liveBroadcastContent": "none",
-                    "defaultLanguage": "en",
-                    "localized": {
-                        "title": "C# Classes Tutorial | Mosh",
-                        "description": "Learn and understand classes in C#\n\n🔥Get the COMPLETE Course: http://bit.ly/2LhL39u\n\nSUBSCRIBE FOR MORE VIDEOS!\nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\nSTAY IN TOUCH\nhttps://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani"
-                    },
-                    "defaultAudioLanguage": "en"
-                }
-            }
-        ],
-        "pageInfo": {
-            "totalResults": 1,
-            "resultsPerPage": 1
-        }
-    },
-    {
-        "kind": "youtube#videoListResponse",
         "etag": "0LA2WTOYoBsCsDlmvq7hni9kz8s",
         "items": [
             {
@@ -3759,6 +3689,89 @@
                     "localized": {
                         "title": "Python For Loops - Python Tutorial for Absolute Beginners",
                         "description": "Python for loops. Learn Python basics with this Python tutorial for absolute beginners.\n🔥Subscribe for more videos like this: https://goo.gl/6PYaGF\n🔥Python tutorial for beginners: https://youtu.be/yE9v9rt6ziw\n\nPython Exercises for Beginners: \nhttps://programmingwithmosh.com/python/python-exercises-and-questions-for-beginners/\n\nPython Cheat Sheet: \nhttps://programmingwithmosh.com/python/python-3-cheat-sheet/\n\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani"
+                    },
+                    "defaultAudioLanguage": "en"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        }
+    },
+    {
+        "kind": "youtube#videoListResponse",
+        "etag": "0bRUriDiZtY8w679WGl2EoQfMLo",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "Gb55pNNEgQ4pvD2dMq-g4nkg3tM",
+                "id": "Zp5MuPOtsSY",
+                "snippet": {
+                    "publishedAt": "2018-11-06T20:30:54Z",
+                    "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+                    "title": "Control Flow in Python - If Elif Else Statements",
+                    "description": "Learn how to use if elif else statements in Python to control the flow of your programs. \n🔥Subscribe for more videos like this: https://goo.gl/6PYaGF\n🔥Python tutorial for beginners: https://youtu.be/yE9v9rt6ziw\n\nPython Exercises for Beginners: \nhttps://programmingwithmosh.com/python/python-exercises-and-questions-for-beginners/\n\nPython Cheat Sheet: \nhttps://programmingwithmosh.com/python/python-3-cheat-sheet/\n\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Zp5MuPOtsSY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Zp5MuPOtsSY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Zp5MuPOtsSY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/Zp5MuPOtsSY/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/Zp5MuPOtsSY/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Programming with Mosh",
+                    "tags": [
+                        "control flow",
+                        "conditional statements",
+                        "if elif else",
+                        "conditional statements in python",
+                        "elif",
+                        "elif capítulo",
+                        "python if",
+                        "python if else statement",
+                        "if statements python",
+                        "python if else",
+                        "python if statement",
+                        "if else statements",
+                        "python elif",
+                        "if else statement in python",
+                        "if statement in python",
+                        "if statement",
+                        "if else",
+                        "python tutorial",
+                        "python tutorial for beginners",
+                        "code with mosh",
+                        "learn python",
+                        "how to use if else statements",
+                        "conditionals",
+                        "conditional statements python"
+                    ],
+                    "categoryId": "27",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Control Flow in Python - If Elif Else Statements",
+                        "description": "Learn how to use if elif else statements in Python to control the flow of your programs. \n🔥Subscribe for more videos like this: https://goo.gl/6PYaGF\n🔥Python tutorial for beginners: https://youtu.be/yE9v9rt6ziw\n\nPython Exercises for Beginners: \nhttps://programmingwithmosh.com/python/python-exercises-and-questions-for-beginners/\n\nPython Cheat Sheet: \nhttps://programmingwithmosh.com/python/python-3-cheat-sheet/\n\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani"
                     },
                     "defaultAudioLanguage": "en"
                 }

@@ -1,4 +1,8 @@
+airflow.cfg
+webserver_config.py
 config/
 cnfig/*.yaml
 logs/
+plugins/
+
 

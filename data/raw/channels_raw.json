@@ -1,7 +1,7 @@
 [
     {
         "kind": "youtube#channelListResponse",
-        "etag": "wFYNpx4z6dJDMqkQrIMPhcAx2eE",
+        "etag": "KEw01jBUtTkw-SgdRCALfa1CzDE",
         "pageInfo": {
             "totalResults": 1,
             "resultsPerPage": 5
@@ -9,7 +9,7 @@
         "items": [
             {
                 "kind": "youtube#channel",
-                "etag": "6YYKVppQnyeMsJlxKB6TGhEKHPE",
+                "etag": "4iqfBJ040gySXULC3ldBhbp0RIQ",
                 "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
                 "snippet": {
                     "title": "Google for Developers",
@@ -46,17 +46,17 @@
                     }
                 },
                 "statistics": {
-                    "viewCount": "405471590",
-                    "subscriberCount": "2550000",
+                    "viewCount": "406126122",
+                    "subscriberCount": "2560000",
                     "hiddenSubscriberCount": false,
-                    "videoCount": "6821"
+                    "videoCount": "6846"
                 }
             }
         ]
     },
     {
         "kind": "youtube#channelListResponse",
-        "etag": "kntHRd3YgvSVXfwAD94ZJgA1yqw",
+        "etag": "0L7JwcYgAu-ZMGYUm-QDx9rJGXw",
         "pageInfo": {
             "totalResults": 1,
             "resultsPerPage": 5
@@ -64,7 +64,7 @@
         "items": [
             {
                 "kind": "youtube#channel",
-                "etag": "xyOTEthpM9v7Hz1iFeqarDJ3NJ8",
+                "etag": "5F739VIA6KploLy3UIhY3sivN2M",
                 "id": "UC29ju8bIPH5as8OGnQzwJyA",
                 "snippet": {
                     "title": "Traversy Media",
@@ -101,17 +101,17 @@
                     }
                 },
                 "statistics": {
-                    "viewCount": "226872229",
+                    "viewCount": "227205415",
                     "subscriberCount": "2380000",
                     "hiddenSubscriberCount": false,
-                    "videoCount": "1013"
+                    "videoCount": "1014"
                 }
             }
         ]
     },
     {
         "kind": "youtube#channelListResponse",
-        "etag": "lVwY3HOItdOsBKlc5C3vPRD7_TM",
+        "etag": "gmeMs2JWlAhw2kWOJrfNnBahLyY",
         "pageInfo": {
             "totalResults": 1,
             "resultsPerPage": 5
@@ -119,7 +119,7 @@
         "items": [
             {
                 "kind": "youtube#channel",
-                "etag": "vls0fTO6cRAmie3cv-qlnsH_k9E",
+                "etag": "JAOa3_e7iz2XmMVthkG79AkQmXI",
                 "id": "UC8butISFwT-Wl7EV0hUK0BQ",
                 "snippet": {
                     "title": "freeCodeCamp.org",
@@ -156,17 +156,17 @@
                     }
                 },
                 "statistics": {
-                    "viewCount": "913582960",
-                    "subscriberCount": "11200000",
+                    "viewCount": "919978940",
+                    "subscriberCount": "11300000",
                     "hiddenSubscriberCount": false,
-                    "videoCount": "1949"
+                    "videoCount": "1984"
                 }
             }
         ]
     },
     {
         "kind": "youtube#channelListResponse",
-        "etag": "eSE0DcK89HiuNxBgEZvdCiFJzUg",
+        "etag": "frgkv6BnL8oqDWVp7Gp8JlPVLBw",
         "pageInfo": {
             "totalResults": 1,
             "resultsPerPage": 5
@@ -174,7 +174,7 @@
         "items": [
             {
                 "kind": "youtube#channel",
-                "etag": "y8GhL50pNBJlByLlZMioMGxMIr4",
+                "etag": "Sf9nPOm_MSVTdhds62Z2A7TaR1Q",
                 "id": "UCYO_jab_esuFRV4b17AJtAw",
                 "snippet": {
                     "title": "3Blue1Brown",
@@ -211,17 +211,17 @@
                     }
                 },
                 "statistics": {
-                    "viewCount": "691402695",
-                    "subscriberCount": "7810000",
+                    "viewCount": "696917163",
+                    "subscriberCount": "7870000",
                     "hiddenSubscriberCount": false,
-                    "videoCount": "223"
+                    "videoCount": "224"
                 }
             }
         ]
     },
     {
         "kind": "youtube#channelListResponse",
-        "etag": "4-lKbmya2IKoyrL0XVLNGoar1wk",
+        "etag": "Z4VIAN2XMtvQyw_7XKsn5a3elRo",
         "pageInfo": {
             "totalResults": 1,
             "resultsPerPage": 5
@@ -229,7 +229,7 @@
         "items": [
             {
                 "kind": "youtube#channel",
-                "etag": "lbg9NTL2UVrK_261Bih8uQmqpUo",
+                "etag": "_fu7SN7IneMDfZa7P6LY5bFa-Sc",
                 "id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
                 "snippet": {
                     "title": "Programming with Mosh",
@@ -266,8 +266,8 @@
                     }
                 },
                 "statistics": {
-                    "viewCount": "255494374",
-                    "subscriberCount": "4830000",
+                    "viewCount": "257240224",
+                    "subscriberCount": "4860000",
                     "hiddenSubscriberCount": false,
                     "videoCount": "243"
                 }
