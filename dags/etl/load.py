@@ -25,7 +25,7 @@ def load_data_to_table(file_name, con, table_name, schema):
 def load(file_names,config_path, tables_name, schemas,data_types=["channels", "videos", "comments"]):
     con = db_utils.get_db_connection(config_path)
     if 'channels' in data_types:
-        # channels_data = 
+        # channels_data
         load_processed_data(file_names['channels'])
         load_data_to_table(file_names['channels'], con, tables_name[0], schemas['channels'])
         """channels_loaded_data =db_utils.fetch_data('SELECT * FROM channels',con)
@@ -34,7 +34,7 @@ def load(file_names,config_path, tables_name, schemas,data_types=["channels", "v
         else : print('les donnees des chaines processed et loaded ne sont pas compatible')  """
 
     if 'videos' in data_types:
-        #videos_data = 
+        #videos_data 
         load_processed_data(file_names['videos'])
         load_data_to_table(file_names['videos'], con, tables_name[1], schemas['videos'])
         """videos_loaded_data = db_utils.fetch_data('SELECT * FROM videos',con)
@@ -43,7 +43,7 @@ def load(file_names,config_path, tables_name, schemas,data_types=["channels", "v
         else : print('les donnees des videos processed et loaded ne sont pas compatible')  """
 
     if 'comments' in data_types:
-        #comments_data = 
+        #comments_data 
         load_processed_data(file_names['comments'])
         load_data_to_table(file_names['comments'], con, tables_name[2], schemas['comments'])     
         """comments_loaded_data = db_utils.fetch_data('SELECT * FROM comments',con)
